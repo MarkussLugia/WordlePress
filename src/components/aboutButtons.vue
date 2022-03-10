@@ -1,7 +1,7 @@
 <template>
   <div class="about">
-    <cardButton event="github">GitHub</cardButton>
-    <cardButton event="weibo">@MarkussLugia</cardButton>
+    <cardButton onclick="window.open('https://github.com/MarkussLugia/WordiePress')">GitHub</cardButton>
+    <cardButton onclick="window.open('https://weibo.com/u/6697782674')">@MarkussLugia</cardButton>
   </div>
 </template>
 <script>
