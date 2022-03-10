@@ -2,7 +2,7 @@
   <card-frame>
   <div class="text-frame">
     <span class="title"
-      >你还有<b>{{ chances }}</b
+      >你还有<b>{{ remaining }}</b
       >次机会。</span
     >
     <p class="text">请利用下方的搜索选出你猜测的岛民。</p>
@@ -13,7 +13,7 @@
 import cardFrame from "./cardFrame.vue";
 export default {
   components: { cardFrame },
-  props: ["chances"],
+  props: ["remaining"],
 };
 </script>
 <style>

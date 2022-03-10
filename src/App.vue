@@ -9,11 +9,21 @@
     <about-buttons></about-buttons>
   </div>
   <div class="game" v-else>
-    <game-started :chances="chances"></game-started>
-    <game-search></game-search>
-    <game-list></game-list>
+    <game-started :remaining="remaining"></game-started>
+    <game-search
+      v-if="!gameOver"
+      :list="metadata.list"
+      :selected="[]"
+      :key-search="metadata.searchByKey"
+      v-on:guess="addGuess($event)"
+    ></game-search>
+    <game-list
+      :metadata="metadata"
+      :guesses="game.guesses"
+      :target="game.target"
+    ></game-list>
     <div v-if="gameOver">
-      <card-button event="toggle" v-on:toggle="toggleGameStart">
+      <card-button event="share" v-on:share="shareResult">
         <span class="big-button">⇱ 分享结果</span>
       </card-button>
       <card-button event="toggle" v-on:toggle="toggleGameStart">
@@ -28,7 +38,7 @@
 <script>
 import metadata from "../data/metadata";
 import headBar from "./components/headBar.vue";
-import beforeGame from "./components/beforeGame.vue";
+import beforeGame from "./components/gameIntro.vue";
 import cardButton from "./components/cardButton.vue";
 import aboutButtons from "./components/aboutButtons.vue";
 import gameStarted from "./components/gameStarted.vue";
@@ -48,15 +58,15 @@ export default {
   },
   data() {
     return {
+      metadata: metadata,
       title: metadata.title,
       chances: metadata.chances,
       gameStart: false,
       gameOver: false,
+      win: false,
       game: {
-        keys: [],
-        target: {},
-        guesses: [],
-        remaining: 8,
+        target: "jay",
+        guesses: ["quinn", "ione", "apollo"],
       },
     };
   },
@@ -66,6 +76,42 @@ export default {
         this.$data.gameStart = true;
       }
     },
+    addGuess(key) {
+      if (key == this.$data.game.target) {
+        this.$data.gameOver = true;
+        this.$data.win = true;
+      } else {
+        let checker = true;
+        for (const property in metadata.properties) {
+          console.log(key);
+          if (
+            this.$data.metadata.list[key][property] !=
+            this.$data.metadata.list[this.$data.game.target][property]
+          ) {
+            checker = false;
+          }
+        }
+        if (checker) {
+          this.$data.game.target = key;
+          this.$data.gameOver = true;
+          this.$data.win = true;
+        }
+      }
+      if (this.$data.game.guesses +1 >= this.$data.metadata.chances) {
+          this.$data.gameOver = true;
+      }
+      this.$data.game.guesses.push(key);
+    },
+  },
+  computed: {
+    remaining() {
+      return this.$data.metadata.chances - this.$data.game.guesses.length;
+    },
+  },
+  mounted() {
+    for (const key in this.$data.metadata.list) {
+      this.$data.metadata.list[key].key = key;
+    }
   },
 };
 </script>

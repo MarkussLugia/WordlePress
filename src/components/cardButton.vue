@@ -26,6 +26,7 @@ export default {
   flex-grow: 1;
   flex-basis: 0;
   transition: 400ms;
+  user-select: none;
 }
 .button:hover{
   background-color: #2060ff;
