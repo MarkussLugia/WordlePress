@@ -21,7 +21,7 @@
         "birthdate": 27,
         "personality": "cranky"
     },
-    "agent-s": {
+    "agents": {
         "name": [
             "阿二",
             "２ごう",
@@ -439,7 +439,7 @@
         "birthdate": 29,
         "personality": "jock"
     },
-    "big-top": {
+    "bigtop": {
         "name": [
             "阿三",
             "３ごう",
@@ -2243,7 +2243,7 @@
         "birthdate": 26,
         "personality": "jock"
     },
-    "kid-cat": {
+    "kidcat": {
         "name": [
             "阿一",
             "１ごう",
@@ -4058,11 +4058,11 @@
         "birthdate": 3,
         "personality": "uchi"
     },
-    "t-bone": {
+    "tbone": {
         "name": [
             "罗宋",
             "ボルシチ",
-            "T-Bone"
+            "TBone"
         ],
         "species": "bull",
         "birthmonth": 5,
@@ -4421,7 +4421,7 @@
         "birthdate": 24,
         "personality": "cranky"
     },
-    "wart-jr": {
+    "wartjr": {
         "name": [
             "山姆",
             "サム",
