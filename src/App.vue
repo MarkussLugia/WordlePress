@@ -1,15 +1,14 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="head">Nookie-动森猜村民</div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import search from './components/search.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    search
   }
 }
 </script>
@@ -22,5 +21,11 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+#head{
+  width: 100%;
+  height: 30px;
+  line-height: 30px;
+  font-size: 20px;
 }
 </style>

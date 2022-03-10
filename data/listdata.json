@@ -1,0 +1,4545 @@
+{
+    "ace": {
+        "name": [
+            "羽毛",
+            "フェザー",
+            "Ace"
+        ],
+        "species": "bird",
+        "birthmonth": 8,
+        "birthdate": 11,
+        "personality": "jock"
+    },
+    "admiral": {
+        "name": [
+            "李彻",
+            "イッテツ",
+            "Admiral"
+        ],
+        "species": "bird",
+        "birthmonth": 1,
+        "birthdate": 27,
+        "personality": "cranky"
+    },
+    "agent-s": {
+        "name": [
+            "阿二",
+            "２ごう",
+            "Agent S"
+        ],
+        "species": "squirrel",
+        "birthmonth": 7,
+        "birthdate": 2,
+        "personality": "peppy"
+    },
+    "agnes": {
+        "name": [
+            "古乃欣",
+            "アグネス",
+            "Agnes"
+        ],
+        "species": "pig",
+        "birthmonth": 4,
+        "birthdate": 21,
+        "personality": "uchi"
+    },
+    "al": {
+        "name": [
+            "阿保",
+            "たもつ",
+            "Al"
+        ],
+        "species": "gorilla",
+        "birthmonth": 10,
+        "birthdate": 18,
+        "personality": "lazy"
+    },
+    "alfonso": {
+        "name": [
+            "阿泥",
+            "アルベルト",
+            "Alfonso"
+        ],
+        "species": "alligator",
+        "birthmonth": 6,
+        "birthdate": 9,
+        "personality": "lazy"
+    },
+    "alice": {
+        "name": [
+            "莫儿",
+            "メルボルン",
+            "Alice"
+        ],
+        "species": "koala",
+        "birthmonth": 8,
+        "birthdate": 19,
+        "personality": "normal"
+    },
+    "alli": {
+        "name": [
+            "鳄罗思",
+            "クロコ",
+            "Alli"
+        ],
+        "species": "alligator",
+        "birthmonth": 11,
+        "birthdate": 8,
+        "personality": "snooty"
+    },
+    "amelia": {
+        "name": [
+            "安地斯",
+            "アンデス",
+            "Amelia"
+        ],
+        "species": "eagle",
+        "birthmonth": 11,
+        "birthdate": 19,
+        "personality": "snooty"
+    },
+    "anabelle": {
+        "name": [
+            "有美",
+            "あるみ",
+            "Anabelle"
+        ],
+        "species": "anteater",
+        "birthmonth": 2,
+        "birthdate": 16,
+        "personality": "peppy"
+    },
+    "anchovy": {
+        "name": [
+            "凤尾",
+            "アンチョビ",
+            "Anchovy"
+        ],
+        "species": "bird",
+        "birthmonth": 3,
+        "birthdate": 4,
+        "personality": "lazy"
+    },
+    "angus": {
+        "name": [
+            "施万德",
+            "セルバンテス",
+            "Angus"
+        ],
+        "species": "bull",
+        "birthmonth": 4,
+        "birthdate": 30,
+        "personality": "cranky"
+    },
+    "anicotti": {
+        "name": [
+            "罗萱儿",
+            "ラザニア",
+            "Anicotti"
+        ],
+        "species": "mouse",
+        "birthmonth": 2,
+        "birthdate": 24,
+        "personality": "peppy"
+    },
+    "ankha": {
+        "name": [
+            "艳后",
+            "ナイル",
+            "Ankha"
+        ],
+        "species": "cat",
+        "birthmonth": 9,
+        "birthdate": 22,
+        "personality": "snooty"
+    },
+    "annalisa": {
+        "name": [
+            "小雅",
+            "みやび",
+            "Annalisa"
+        ],
+        "species": "anteater",
+        "birthmonth": 2,
+        "birthdate": 6,
+        "personality": "normal"
+    },
+    "annalise": {
+        "name": [
+            "舒芙蕾",
+            "シルブプレ",
+            "Annalise"
+        ],
+        "species": "horse",
+        "birthmonth": 12,
+        "birthdate": 2,
+        "personality": "snooty"
+    },
+    "antonio": {
+        "name": [
+            "阿诚",
+            "マコト",
+            "Antonio"
+        ],
+        "species": "anteater",
+        "birthmonth": 10,
+        "birthdate": 20,
+        "personality": "jock"
+    },
+    "apollo": {
+        "name": [
+            "阿波罗",
+            "アポロ",
+            "Apollo"
+        ],
+        "species": "eagle",
+        "birthmonth": 7,
+        "birthdate": 4,
+        "personality": "cranky"
+    },
+    "apple": {
+        "name": [
+            "苹果",
+            "アップル",
+            "Apple"
+        ],
+        "species": "hamster",
+        "birthmonth": 9,
+        "birthdate": 24,
+        "personality": "peppy"
+    },
+    "astrid": {
+        "name": [
+            "童儿",
+            "キッズ",
+            "Astrid"
+        ],
+        "species": "kangaroo",
+        "birthmonth": 9,
+        "birthdate": 8,
+        "personality": "snooty"
+    },
+    "audie": {
+        "name": [
+            "莫妮卡",
+            "モニカ",
+            "Audie"
+        ],
+        "species": "wolf",
+        "birthmonth": 8,
+        "birthdate": 31,
+        "personality": "peppy"
+    },
+    "aurora": {
+        "name": [
+            "欧若拉",
+            "オーロラ",
+            "Aurora"
+        ],
+        "species": "penguin",
+        "birthmonth": 1,
+        "birthdate": 27,
+        "personality": "normal"
+    },
+    "ava": {
+        "name": [
+            "陶米咕",
+            "ドミグラ",
+            "Ava"
+        ],
+        "species": "chicken",
+        "birthmonth": 4,
+        "birthdate": 28,
+        "personality": "normal"
+    },
+    "avery": {
+        "name": [
+            "安谷斯",
+            "クスケチャ",
+            "Avery"
+        ],
+        "species": "eagle",
+        "birthmonth": 2,
+        "birthdate": 22,
+        "personality": "cranky"
+    },
+    "axel": {
+        "name": [
+            "大大",
+            "エックスエル",
+            "Axel"
+        ],
+        "species": "elephant",
+        "birthmonth": 3,
+        "birthdate": 23,
+        "personality": "jock"
+    },
+    "baabara": {
+        "name": [
+            "华尔滋",
+            "トロワ",
+            "Baabara"
+        ],
+        "species": "sheep",
+        "birthmonth": 3,
+        "birthdate": 28,
+        "personality": "snooty"
+    },
+    "bam": {
+        "name": [
+            "小健",
+            "タケル",
+            "Bam"
+        ],
+        "species": "deer",
+        "birthmonth": 11,
+        "birthdate": 7,
+        "personality": "jock"
+    },
+    "bangle": {
+        "name": [
+            "卢姿",
+            "ルーズ",
+            "Bangle"
+        ],
+        "species": "tiger",
+        "birthmonth": 8,
+        "birthdate": 27,
+        "personality": "peppy"
+    },
+    "barold": {
+        "name": [
+            "阿西",
+            "ニッシー",
+            "Barold"
+        ],
+        "species": "cub",
+        "birthmonth": 3,
+        "birthdate": 2,
+        "personality": "lazy"
+    },
+    "bea": {
+        "name": [
+            "贝果",
+            "ベーグル",
+            "Bea"
+        ],
+        "species": "dog",
+        "birthmonth": 10,
+        "birthdate": 15,
+        "personality": "normal"
+    },
+    "beardo": {
+        "name": [
+            "熊大叔",
+            "ベアード",
+            "Beardo"
+        ],
+        "species": "bear",
+        "birthmonth": 9,
+        "birthdate": 27,
+        "personality": "smug"
+    },
+    "beau": {
+        "name": [
+            "彼得",
+            "ペーター",
+            "Beau"
+        ],
+        "species": "deer",
+        "birthmonth": 4,
+        "birthdate": 5,
+        "personality": "lazy"
+    },
+    "becky": {
+        "name": [
+            "咏旋",
+            "アリア",
+            "Becky"
+        ],
+        "species": "chicken",
+        "birthmonth": 12,
+        "birthdate": 9,
+        "personality": "snooty"
+    },
+    "bella": {
+        "name": [
+            "贝拉",
+            "イザベラ",
+            "Bella"
+        ],
+        "species": "mouse",
+        "birthmonth": 12,
+        "birthdate": 28,
+        "personality": "peppy"
+    },
+    "benedict": {
+        "name": [
+            "沛希",
+            "ぺしみち",
+            "Benedict"
+        ],
+        "species": "chicken",
+        "birthmonth": 10,
+        "birthdate": 10,
+        "personality": "lazy"
+    },
+    "benjamin": {
+        "name": [
+            "小八",
+            "ハチ",
+            "Benjamin"
+        ],
+        "species": "dog",
+        "birthmonth": 8,
+        "birthdate": 3,
+        "personality": "lazy"
+    },
+    "bertha": {
+        "name": [
+            "豆沙",
+            "あんこ",
+            "Bertha"
+        ],
+        "species": "hippo",
+        "birthmonth": 4,
+        "birthdate": 25,
+        "personality": "normal"
+    },
+    "bettina": {
+        "name": [
+            "丸子",
+            "マルコ",
+            "Bettina"
+        ],
+        "species": "mouse",
+        "birthmonth": 6,
+        "birthdate": 12,
+        "personality": "normal"
+    },
+    "bianca": {
+        "name": [
+            "小雪",
+            "コユキ",
+            "Bianca"
+        ],
+        "species": "tiger",
+        "birthmonth": 12,
+        "birthdate": 13,
+        "personality": "peppy"
+    },
+    "biff": {
+        "name": [
+            "贾宝为",
+            "ガブリエル",
+            "Biff"
+        ],
+        "species": "hippo",
+        "birthmonth": 3,
+        "birthdate": 29,
+        "personality": "jock"
+    },
+    "big-top": {
+        "name": [
+            "阿三",
+            "３ごう",
+            "Big Top"
+        ],
+        "species": "elephant",
+        "birthmonth": 10,
+        "birthdate": 3,
+        "personality": "lazy"
+    },
+    "bill": {
+        "name": [
+            "皮蛋",
+            "ピータン",
+            "Bill"
+        ],
+        "species": "duck",
+        "birthmonth": 2,
+        "birthdate": 1,
+        "personality": "jock"
+    },
+    "billy": {
+        "name": [
+            "亚星",
+            "アーシンド",
+            "Billy"
+        ],
+        "species": "goat",
+        "birthmonth": 3,
+        "birthdate": 25,
+        "personality": "jock"
+    },
+    "biskit": {
+        "name": [
+            "罗宾",
+            "ロビン",
+            "Biskit"
+        ],
+        "species": "dog",
+        "birthmonth": 5,
+        "birthdate": 13,
+        "personality": "lazy"
+    },
+    "bitty": {
+        "name": [
+            "艾咪",
+            "エーミー",
+            "Bitty"
+        ],
+        "species": "hippo",
+        "birthmonth": 10,
+        "birthdate": 6,
+        "personality": "snooty"
+    },
+    "blaire": {
+        "name": [
+            "小影",
+            "シルエット",
+            "Blaire"
+        ],
+        "species": "squirrel",
+        "birthmonth": 7,
+        "birthdate": 3,
+        "personality": "snooty"
+    },
+    "blanche": {
+        "name": [
+            "小偲",
+            "しのぶ",
+            "Blanche"
+        ],
+        "species": "ostrich",
+        "birthmonth": 12,
+        "birthdate": 21,
+        "personality": "snooty"
+    },
+    "bluebear": {
+        "name": [
+            "娃娃",
+            "グルミン",
+            "Bluebear"
+        ],
+        "species": "cub",
+        "birthmonth": 6,
+        "birthdate": 24,
+        "personality": "peppy"
+    },
+    "bob": {
+        "name": [
+            "阿判",
+            "ニコバン",
+            "Bob"
+        ],
+        "species": "cat",
+        "birthmonth": 1,
+        "birthdate": 1,
+        "personality": "lazy"
+    },
+    "bonbon": {
+        "name": [
+            "妙妙",
+            "ミミィ",
+            "Bonbon"
+        ],
+        "species": "rabbit",
+        "birthmonth": 3,
+        "birthdate": 3,
+        "personality": "peppy"
+    },
+    "bones": {
+        "name": [
+            "阿富",
+            "トミ",
+            "Bones"
+        ],
+        "species": "dog",
+        "birthmonth": 8,
+        "birthdate": 4,
+        "personality": "lazy"
+    },
+    "boomer": {
+        "name": [
+            "秀益",
+            "ショーイ",
+            "Boomer"
+        ],
+        "species": "penguin",
+        "birthmonth": 2,
+        "birthdate": 7,
+        "personality": "lazy"
+    },
+    "boone": {
+        "name": [
+            "万泰",
+            "まんたろう",
+            "Boone"
+        ],
+        "species": "gorilla",
+        "birthmonth": 9,
+        "birthdate": 12,
+        "personality": "jock"
+    },
+    "boots": {
+        "name": [
+            "丰年",
+            "ホウサク",
+            "Boots"
+        ],
+        "species": "alligator",
+        "birthmonth": 8,
+        "birthdate": 7,
+        "personality": "jock"
+    },
+    "boris": {
+        "name": [
+            "达利",
+            "ダリー",
+            "Boris"
+        ],
+        "species": "pig",
+        "birthmonth": 11,
+        "birthdate": 6,
+        "personality": "cranky"
+    },
+    "boyd": {
+        "name": [
+            "空空",
+            "ボイド",
+            "Boyd"
+        ],
+        "species": "gorilla",
+        "birthmonth": 10,
+        "birthdate": 1,
+        "personality": "cranky"
+    },
+    "bree": {
+        "name": [
+            "西瓜皮",
+            "サラ",
+            "Bree"
+        ],
+        "species": "mouse",
+        "birthmonth": 7,
+        "birthdate": 7,
+        "personality": "snooty"
+    },
+    "broccolo": {
+        "name": [
+            "茜蓝",
+            "ブロッコリー",
+            "Broccolo"
+        ],
+        "species": "mouse",
+        "birthmonth": 6,
+        "birthdate": 30,
+        "personality": "lazy"
+    },
+    "broffina": {
+        "name": [
+            "凯西",
+            "カサンドラ",
+            "Broffina"
+        ],
+        "species": "chicken",
+        "birthmonth": 10,
+        "birthdate": 24,
+        "personality": "snooty"
+    },
+    "bruce": {
+        "name": [
+            "布鹿斯",
+            "ブルース",
+            "Bruce"
+        ],
+        "species": "deer",
+        "birthmonth": 5,
+        "birthdate": 26,
+        "personality": "cranky"
+    },
+    "bubbles": {
+        "name": [
+            "曹珂",
+            "チャコ",
+            "Bubbles"
+        ],
+        "species": "hippo",
+        "birthmonth": 9,
+        "birthdate": 18,
+        "personality": "peppy"
+    },
+    "buck": {
+        "name": [
+            "威亚",
+            "ヴァヤシコフ",
+            "Buck"
+        ],
+        "species": "horse",
+        "birthmonth": 4,
+        "birthdate": 4,
+        "personality": "jock"
+    },
+    "bud": {
+        "name": [
+            "莫敬",
+            "グラさん",
+            "Bud"
+        ],
+        "species": "lion",
+        "birthmonth": 8,
+        "birthdate": 8,
+        "personality": "jock"
+    },
+    "bunnie": {
+        "name": [
+            "莉莉安",
+            "リリアン",
+            "Bunnie"
+        ],
+        "species": "rabbit",
+        "birthmonth": 5,
+        "birthdate": 9,
+        "personality": "peppy"
+    },
+    "butch": {
+        "name": [
+            "约翰",
+            "ジョン",
+            "Butch"
+        ],
+        "species": "dog",
+        "birthmonth": 11,
+        "birthdate": 1,
+        "personality": "cranky"
+    },
+    "buzz": {
+        "name": [
+            "继光",
+            "ひでよし",
+            "Buzz"
+        ],
+        "species": "eagle",
+        "birthmonth": 12,
+        "birthdate": 7,
+        "personality": "cranky"
+    },
+    "cally": {
+        "name": [
+            "小芹",
+            "パセリ",
+            "Cally"
+        ],
+        "species": "squirrel",
+        "birthmonth": 9,
+        "birthdate": 4,
+        "personality": "normal"
+    },
+    "camofrog": {
+        "name": [
+            "迷仔",
+            "フルメタル",
+            "Camofrog"
+        ],
+        "species": "frog",
+        "birthmonth": 6,
+        "birthdate": 5,
+        "personality": "cranky"
+    },
+    "canberra": {
+        "name": [
+            "简培菈",
+            "キャンベラ",
+            "Canberra"
+        ],
+        "species": "koala",
+        "birthmonth": 5,
+        "birthdate": 14,
+        "personality": "uchi"
+    },
+    "candi": {
+        "name": [
+            "甘油",
+            "かんゆ",
+            "Candi"
+        ],
+        "species": "mouse",
+        "birthmonth": 4,
+        "birthdate": 13,
+        "personality": "peppy"
+    },
+    "carmen2": {
+        "name": [
+            "巧蔻",
+            "チョコ",
+            "Carmen"
+        ],
+        "species": "rabbit",
+        "birthmonth": 1,
+        "birthdate": 6,
+        "personality": "peppy"
+    },
+    "caroline": {
+        "name": [
+            "贾萝琳",
+            "キャロライン",
+            "Caroline"
+        ],
+        "species": "squirrel",
+        "birthmonth": 7,
+        "birthdate": 15,
+        "personality": "normal"
+    },
+    "carrie": {
+        "name": [
+            "妈咪",
+            "マミィ",
+            "Carrie"
+        ],
+        "species": "kangaroo",
+        "birthmonth": 12,
+        "birthdate": 5,
+        "personality": "normal"
+    },
+    "cashmere": {
+        "name": [
+            "爱睦",
+            "ラムール",
+            "Cashmere"
+        ],
+        "species": "sheep",
+        "birthmonth": 4,
+        "birthdate": 2,
+        "personality": "snooty"
+    },
+    "celia": {
+        "name": [
+            "蒂芬妮",
+            "ティファニー",
+            "Celia"
+        ],
+        "species": "eagle",
+        "birthmonth": 3,
+        "birthdate": 25,
+        "personality": "normal"
+    },
+    "cephalobot": {
+        "name": [
+            "吉格尔",
+            "ギーガー",
+            "Cephalobot"
+        ],
+        "species": "octopus",
+        "birthmonth": 4,
+        "birthdate": 1,
+        "personality": "smug"
+    },
+    "cesar": {
+        "name": [
+            "阿朗",
+            "アラン",
+            "Cesar"
+        ],
+        "species": "gorilla",
+        "birthmonth": 9,
+        "birthdate": 6,
+        "personality": "cranky"
+    },
+    "chadder": {
+        "name": [
+            "起司",
+            "チーズ",
+            "Chadder"
+        ],
+        "species": "mouse",
+        "birthmonth": 12,
+        "birthdate": 15,
+        "personality": "smug"
+    },
+    "chai": {
+        "name": [
+            "啡卡",
+            "フィーカ",
+            "Chai"
+        ],
+        "species": "elephant",
+        "birthmonth": 3,
+        "birthdate": 6,
+        "personality": "peppy"
+    },
+    "champagne": {
+        "name": [
+            "祥平",
+            "シャンペン",
+            "Frett"
+        ],
+        "species": "dog",
+        "birthmonth": 10,
+        "birthdate": 30,
+        "personality": "cranky"
+    },
+    "charlise": {
+        "name": [
+            "恰咪",
+            "チャーミー",
+            "Charlise"
+        ],
+        "species": "bear",
+        "birthmonth": 4,
+        "birthdate": 17,
+        "personality": "uchi"
+    },
+    "chelsea": {
+        "name": [
+            "雀儿喜",
+            "チェルシー",
+            "Chelsea"
+        ],
+        "species": "deer",
+        "birthmonth": 1,
+        "birthdate": 18,
+        "personality": "normal"
+    },
+    "cheri": {
+        "name": [
+            "樱桃",
+            "アセロラ",
+            "Cheri"
+        ],
+        "species": "cub",
+        "birthmonth": 3,
+        "birthdate": 17,
+        "personality": "peppy"
+    },
+    "cherry": {
+        "name": [
+            "花娜",
+            "ハンナ",
+            "Cherry"
+        ],
+        "species": "dog",
+        "birthmonth": 5,
+        "birthdate": 11,
+        "personality": "uchi"
+    },
+    "chester": {
+        "name": [
+            "胖达",
+            "パンタ",
+            "Chester"
+        ],
+        "species": "cub",
+        "birthmonth": 8,
+        "birthdate": 6,
+        "personality": "lazy"
+    },
+    "chevre": {
+        "name": [
+            "雪儿",
+            "ユキ",
+            "Chevre"
+        ],
+        "species": "goat",
+        "birthmonth": 3,
+        "birthdate": 6,
+        "personality": "normal"
+    },
+    "chief": {
+        "name": [
+            "施傅",
+            "チーフ",
+            "Chief"
+        ],
+        "species": "wolf",
+        "birthmonth": 12,
+        "birthdate": 19,
+        "personality": "cranky"
+    },
+    "chops": {
+        "name": [
+            "豚皇",
+            "トンファン",
+            "Chops"
+        ],
+        "species": "pig",
+        "birthmonth": 10,
+        "birthdate": 13,
+        "personality": "smug"
+    },
+    "chow": {
+        "name": [
+            "朝阳",
+            "チャウヤン",
+            "Chow"
+        ],
+        "species": "bear",
+        "birthmonth": 7,
+        "birthdate": 22,
+        "personality": "cranky"
+    },
+    "chrissy": {
+        "name": [
+            "克莉琪",
+            "クリスチーヌ",
+            "Chrissy"
+        ],
+        "species": "rabbit",
+        "birthmonth": 8,
+        "birthdate": 28,
+        "personality": "peppy"
+    },
+    "claude": {
+        "name": [
+            "阿醋",
+            "ビネガー",
+            "Claude"
+        ],
+        "species": "rabbit",
+        "birthmonth": 12,
+        "birthdate": 3,
+        "personality": "lazy"
+    },
+    "claudia": {
+        "name": [
+            "马丽莲",
+            "マリリン",
+            "Claudia"
+        ],
+        "species": "tiger",
+        "birthmonth": 11,
+        "birthdate": 22,
+        "personality": "snooty"
+    },
+    "clay": {
+        "name": [
+            "子墨",
+            "どぐろう",
+            "Clay"
+        ],
+        "species": "hamster",
+        "birthmonth": 10,
+        "birthdate": 19,
+        "personality": "lazy"
+    },
+    "cleo": {
+        "name": [
+            "小铀",
+            "アイソトープ",
+            "Cleo"
+        ],
+        "species": "horse",
+        "birthmonth": 2,
+        "birthdate": 9,
+        "personality": "snooty"
+    },
+    "clyde": {
+        "name": [
+            "笛笛",
+            "デースケ",
+            "Clyde"
+        ],
+        "species": "horse",
+        "birthmonth": 5,
+        "birthdate": 1,
+        "personality": "lazy"
+    },
+    "coach": {
+        "name": [
+            "大常",
+            "テッチャン",
+            "Coach"
+        ],
+        "species": "bull",
+        "birthmonth": 4,
+        "birthdate": 29,
+        "personality": "jock"
+    },
+    "cobb": {
+        "name": [
+            "博士",
+            "ハカセ",
+            "Cobb"
+        ],
+        "species": "pig",
+        "birthmonth": 10,
+        "birthdate": 7,
+        "personality": "jock"
+    },
+    "coco": {
+        "name": [
+            "仰韶",
+            "やよい",
+            "Coco"
+        ],
+        "species": "rabbit",
+        "birthmonth": 3,
+        "birthdate": 1,
+        "personality": "normal"
+    },
+    "cole": {
+        "name": [
+            "阿甘",
+            "アマミン",
+            "Cole"
+        ],
+        "species": "rabbit",
+        "birthmonth": 8,
+        "birthdate": 10,
+        "personality": "lazy"
+    },
+    "colton": {
+        "name": [
+            "安索尼",
+            "アンソニー",
+            "Colton"
+        ],
+        "species": "horse",
+        "birthmonth": 5,
+        "birthdate": 22,
+        "personality": "smug"
+    },
+    "cookie": {
+        "name": [
+            "珮琳",
+            "ペリーヌ",
+            "Cookie"
+        ],
+        "species": "dog",
+        "birthmonth": 6,
+        "birthdate": 18,
+        "personality": "peppy"
+    },
+    "cousteau": {
+        "name": [
+            "春卷",
+            "ハルマキ",
+            "Cousteau"
+        ],
+        "species": "frog",
+        "birthmonth": 12,
+        "birthdate": 17,
+        "personality": "jock"
+    },
+    "cranston": {
+        "name": [
+            "朱禄",
+            "トキオ",
+            "Cranston"
+        ],
+        "species": "ostrich",
+        "birthmonth": 9,
+        "birthdate": 23,
+        "personality": "lazy"
+    },
+    "croque": {
+        "name": [
+            "太子",
+            "タイシ",
+            "Croque"
+        ],
+        "species": "frog",
+        "birthmonth": 7,
+        "birthdate": 18,
+        "personality": "cranky"
+    },
+    "cube": {
+        "name": [
+            "罗斯",
+            "ビス",
+            "Cube"
+        ],
+        "species": "penguin",
+        "birthmonth": 1,
+        "birthdate": 29,
+        "personality": "lazy"
+    },
+    "curlos": {
+        "name": [
+            "贾洛斯",
+            "カルロス",
+            "Curlos"
+        ],
+        "species": "sheep",
+        "birthmonth": 5,
+        "birthdate": 8,
+        "personality": "smug"
+    },
+    "curly": {
+        "name": [
+            "胜利",
+            "ハムカツ",
+            "Curly"
+        ],
+        "species": "pig",
+        "birthmonth": 7,
+        "birthdate": 26,
+        "personality": "jock"
+    },
+    "curt": {
+        "name": [
+            "铁熊",
+            "ガンテツ",
+            "Curt"
+        ],
+        "species": "bear",
+        "birthmonth": 7,
+        "birthdate": 1,
+        "personality": "cranky"
+    },
+    "cyd": {
+        "name": [
+            "庞克斯",
+            "パンクス",
+            "Cyd"
+        ],
+        "species": "elephant",
+        "birthmonth": 6,
+        "birthdate": 9,
+        "personality": "cranky"
+    },
+    "cyrano": {
+        "name": [
+            "阳明",
+            "さくらじま",
+            "Cyrano"
+        ],
+        "species": "anteater",
+        "birthmonth": 3,
+        "birthdate": 9,
+        "personality": "cranky"
+    },
+    "daisy": {
+        "name": [
+            "香草",
+            "バニラ",
+            "Daisy"
+        ],
+        "species": "dog",
+        "birthmonth": 11,
+        "birthdate": 16,
+        "personality": "normal"
+    },
+    "deena": {
+        "name": [
+            "球藻",
+            "まりも",
+            "Deena"
+        ],
+        "species": "duck",
+        "birthmonth": 6,
+        "birthdate": 27,
+        "personality": "normal"
+    },
+    "deirdre": {
+        "name": [
+            "娣雅",
+            "ナディア",
+            "Deirdre"
+        ],
+        "species": "deer",
+        "birthmonth": 5,
+        "birthdate": 4,
+        "personality": "uchi"
+    },
+    "del": {
+        "name": [
+            "大和",
+            "ヤマト",
+            "Del"
+        ],
+        "species": "alligator",
+        "birthmonth": 5,
+        "birthdate": 27,
+        "personality": "cranky"
+    },
+    "deli": {
+        "name": [
+            "德里",
+            "デリー",
+            "Deli"
+        ],
+        "species": "monkey",
+        "birthmonth": 5,
+        "birthdate": 24,
+        "personality": "lazy"
+    },
+    "derwin": {
+        "name": [
+            "阿坊",
+            "ボン",
+            "Derwin"
+        ],
+        "species": "duck",
+        "birthmonth": 5,
+        "birthdate": 25,
+        "personality": "lazy"
+    },
+    "diana": {
+        "name": [
+            "倪家莉",
+            "ナタリー",
+            "Diana"
+        ],
+        "species": "deer",
+        "birthmonth": 1,
+        "birthdate": 4,
+        "personality": "snooty"
+    },
+    "diva": {
+        "name": [
+            "小睫",
+            "アイーダ",
+            "Diva"
+        ],
+        "species": "frog",
+        "birthmonth": 10,
+        "birthdate": 2,
+        "personality": "uchi"
+    },
+    "dizzy": {
+        "name": [
+            "巨巨",
+            "ヒュージ",
+            "Dizzy"
+        ],
+        "species": "elephant",
+        "birthmonth": 7,
+        "birthdate": 14,
+        "personality": "lazy"
+    },
+    "dobie": {
+        "name": [
+            "阿研",
+            "けん",
+            "Dobie"
+        ],
+        "species": "wolf",
+        "birthmonth": 2,
+        "birthdate": 17,
+        "personality": "cranky"
+    },
+    "doc": {
+        "name": [
+            "阿飞",
+            "トビオ",
+            "Doc"
+        ],
+        "species": "rabbit",
+        "birthmonth": 3,
+        "birthdate": 16,
+        "personality": "lazy"
+    },
+    "dom": {
+        "name": [
+            "茶茶丸",
+            "ちゃちゃまる",
+            "Dom"
+        ],
+        "species": "sheep",
+        "birthmonth": 3,
+        "birthdate": 18,
+        "personality": "jock"
+    },
+    "dora": {
+        "name": [
+            "杜美",
+            "とめ",
+            "Dora"
+        ],
+        "species": "mouse",
+        "birthmonth": 2,
+        "birthdate": 18,
+        "personality": "normal"
+    },
+    "dotty": {
+        "name": [
+            "玛莎",
+            "マーサ",
+            "Dotty"
+        ],
+        "species": "rabbit",
+        "birthmonth": 3,
+        "birthdate": 14,
+        "personality": "peppy"
+    },
+    "drago": {
+        "name": [
+            "阿龙",
+            "タツオ",
+            "Drago"
+        ],
+        "species": "alligator",
+        "birthmonth": 2,
+        "birthdate": 12,
+        "personality": "lazy"
+    },
+    "drake": {
+        "name": [
+            "肥肝",
+            "フォアグラ",
+            "Drake"
+        ],
+        "species": "duck",
+        "birthmonth": 6,
+        "birthdate": 25,
+        "personality": "lazy"
+    },
+    "drift": {
+        "name": [
+            "毒仔",
+            "ドク",
+            "Drift"
+        ],
+        "species": "frog",
+        "birthmonth": 10,
+        "birthdate": 9,
+        "personality": "jock"
+    },
+    "ed": {
+        "name": [
+            "马誉",
+            "キザノホマレ",
+            "Ed"
+        ],
+        "species": "horse",
+        "birthmonth": 9,
+        "birthdate": 16,
+        "personality": "smug"
+    },
+    "egbert": {
+        "name": [
+            "黄金鸡",
+            "しもやけ",
+            "Egbert"
+        ],
+        "species": "chicken",
+        "birthmonth": 10,
+        "birthdate": 14,
+        "personality": "lazy"
+    },
+    "elise": {
+        "name": [
+            "孟琪",
+            "モンこ",
+            "Elise"
+        ],
+        "species": "monkey",
+        "birthmonth": 3,
+        "birthdate": 21,
+        "personality": "snooty"
+    },
+    "ellie": {
+        "name": [
+            "泡芙",
+            "エクレア",
+            "Ellie"
+        ],
+        "species": "elephant",
+        "birthmonth": 5,
+        "birthdate": 12,
+        "personality": "normal"
+    },
+    "elmer": {
+        "name": [
+            "酥饼",
+            "サブレ",
+            "Elmer"
+        ],
+        "species": "horse",
+        "birthmonth": 10,
+        "birthdate": 5,
+        "personality": "lazy"
+    },
+    "eloise": {
+        "name": [
+            "艾勒芬",
+            "エレフィン",
+            "Eloise"
+        ],
+        "species": "elephant",
+        "birthmonth": 12,
+        "birthdate": 8,
+        "personality": "snooty"
+    },
+    "elvis": {
+        "name": [
+            "皇狮",
+            "キング",
+            "Elvis"
+        ],
+        "species": "lion",
+        "birthmonth": 7,
+        "birthdate": 23,
+        "personality": "cranky"
+    },
+    "erik": {
+        "name": [
+            "查克",
+            "チャック",
+            "Erik"
+        ],
+        "species": "deer",
+        "birthmonth": 7,
+        "birthdate": 27,
+        "personality": "lazy"
+    },
+    "etoile": {
+        "name": [
+            "彩星",
+            "エトワール",
+            "Étoile"
+        ],
+        "species": "sheep",
+        "birthmonth": 12,
+        "birthdate": 25,
+        "personality": "normal"
+    },
+    "eugene": {
+        "name": [
+            "罗奇",
+            "ロッキー",
+            "Eugene"
+        ],
+        "species": "koala",
+        "birthmonth": 10,
+        "birthdate": 26,
+        "personality": "smug"
+    },
+    "eunice": {
+        "name": [
+            "毛海儿",
+            "モヘア",
+            "Eunice"
+        ],
+        "species": "sheep",
+        "birthmonth": 4,
+        "birthdate": 3,
+        "personality": "normal"
+    },
+    "faith": {
+        "name": [
+            "游琪",
+            "マーチ",
+            "Faith"
+        ],
+        "species": "koala",
+        "birthmonth": 3,
+        "birthdate": 21,
+        "personality": "normal"
+    },
+    "fang": {
+        "name": [
+            "史培亚",
+            "シベリア",
+            "Fang"
+        ],
+        "species": "wolf",
+        "birthmonth": 12,
+        "birthdate": 18,
+        "personality": "cranky"
+    },
+    "fauna": {
+        "name": [
+            "音音",
+            "ドレミ",
+            "Fauna"
+        ],
+        "species": "deer",
+        "birthmonth": 3,
+        "birthdate": 26,
+        "personality": "normal"
+    },
+    "felicity": {
+        "name": [
+            "美佳",
+            "みかっち",
+            "Felicity"
+        ],
+        "species": "cat",
+        "birthmonth": 3,
+        "birthdate": 30,
+        "personality": "peppy"
+    },
+    "filbert": {
+        "name": [
+            "瑞奇",
+            "リッキー",
+            "Filbert"
+        ],
+        "species": "squirrel",
+        "birthmonth": 6,
+        "birthdate": 3,
+        "personality": "lazy"
+    },
+    "flip": {
+        "name": [
+            "天佑",
+            "さすけ",
+            "Flip"
+        ],
+        "species": "monkey",
+        "birthmonth": 11,
+        "birthdate": 21,
+        "personality": "jock"
+    },
+    "flo": {
+        "name": [
+            "蕾拉",
+            "レイラ",
+            "Flo"
+        ],
+        "species": "penguin",
+        "birthmonth": 9,
+        "birthdate": 2,
+        "personality": "uchi"
+    },
+    "flora": {
+        "name": [
+            "胡拉拉",
+            "フララ",
+            "Flora"
+        ],
+        "species": "ostrich",
+        "birthmonth": 2,
+        "birthdate": 9,
+        "personality": "peppy"
+    },
+    "flurry": {
+        "name": [
+            "雪美",
+            "ゆきみ",
+            "Flurry"
+        ],
+        "species": "hamster",
+        "birthmonth": 1,
+        "birthdate": 30,
+        "personality": "normal"
+    },
+    "francine": {
+        "name": [
+            "法蓝琪",
+            "フランソワ",
+            "Francine"
+        ],
+        "species": "rabbit",
+        "birthmonth": 1,
+        "birthdate": 22,
+        "personality": "snooty"
+    },
+    "frank": {
+        "name": [
+            "浩克",
+            "ハルク",
+            "Frank"
+        ],
+        "species": "eagle",
+        "birthmonth": 7,
+        "birthdate": 30,
+        "personality": "cranky"
+    },
+    "freckles": {
+        "name": [
+            "小鲔",
+            "マグロ",
+            "Freckles"
+        ],
+        "species": "duck",
+        "birthmonth": 2,
+        "birthdate": 19,
+        "personality": "peppy"
+    },
+    "freya": {
+        "name": [
+            "冰冰",
+            "ツンドラ",
+            "Freya"
+        ],
+        "species": "wolf",
+        "birthmonth": 12,
+        "birthdate": 14,
+        "personality": "snooty"
+    },
+    "friga": {
+        "name": [
+            "谢宾娜",
+            "サブリナ",
+            "Friga"
+        ],
+        "species": "penguin",
+        "birthmonth": 10,
+        "birthdate": 16,
+        "personality": "snooty"
+    },
+    "frita": {
+        "name": [
+            "温蒂",
+            "ウェンディ",
+            "Frita"
+        ],
+        "species": "sheep",
+        "birthmonth": 7,
+        "birthdate": 16,
+        "personality": "uchi"
+    },
+    "frobert": {
+        "name": [
+            "江适",
+            "コージィ",
+            "Frobert"
+        ],
+        "species": "frog",
+        "birthmonth": 2,
+        "birthdate": 8,
+        "personality": "jock"
+    },
+    "fuchsia": {
+        "name": [
+            "洁西卡",
+            "ジェシカ",
+            "Fuchsia"
+        ],
+        "species": "deer",
+        "birthmonth": 9,
+        "birthdate": 19,
+        "personality": "uchi"
+    },
+    "gabi": {
+        "name": [
+            "珮琪",
+            "ペチカ",
+            "Gabi"
+        ],
+        "species": "rabbit",
+        "birthmonth": 12,
+        "birthdate": 16,
+        "personality": "peppy"
+    },
+    "gala": {
+        "name": [
+            "小芽",
+            "ためこ",
+            "Gala"
+        ],
+        "species": "pig",
+        "birthmonth": 3,
+        "birthdate": 5,
+        "personality": "normal"
+    },
+    "gaston": {
+        "name": [
+            "猛兔",
+            "モサキチ",
+            "Gaston"
+        ],
+        "species": "rabbit",
+        "birthmonth": 10,
+        "birthdate": 28,
+        "personality": "cranky"
+    },
+    "gayle": {
+        "name": [
+            "爱莉",
+            "アリゲッティ",
+            "Gayle"
+        ],
+        "species": "alligator",
+        "birthmonth": 5,
+        "birthdate": 17,
+        "personality": "normal"
+    },
+    "genji": {
+        "name": [
+            "儒林",
+            "ゲンジ",
+            "Genji"
+        ],
+        "species": "rabbit",
+        "birthmonth": 1,
+        "birthdate": 21,
+        "personality": "jock"
+    },
+    "gigi": {
+        "name": [
+            "林妲",
+            "リンダ",
+            "Gigi"
+        ],
+        "species": "frog",
+        "birthmonth": 8,
+        "birthdate": 11,
+        "personality": "snooty"
+    },
+    "gladys": {
+        "name": [
+            "仙仙",
+            "ちとせ",
+            "Gladys"
+        ],
+        "species": "ostrich",
+        "birthmonth": 1,
+        "birthdate": 15,
+        "personality": "normal"
+    },
+    "gloria": {
+        "name": [
+            "素返真",
+            "スワンソン",
+            "Gloria"
+        ],
+        "species": "duck",
+        "birthmonth": 8,
+        "birthdate": 12,
+        "personality": "snooty"
+    },
+    "goldie": {
+        "name": [
+            "牛奶糖",
+            "キャラメル",
+            "Goldie"
+        ],
+        "species": "dog",
+        "birthmonth": 12,
+        "birthdate": 27,
+        "personality": "normal"
+    },
+    "gonzo": {
+        "name": [
+            "钢锁",
+            "ゴンゾー",
+            "Gonzo"
+        ],
+        "species": "koala",
+        "birthmonth": 10,
+        "birthdate": 13,
+        "personality": "cranky"
+    },
+    "goose": {
+        "name": [
+            "肯肯",
+            "ケンタ",
+            "Goose"
+        ],
+        "species": "chicken",
+        "birthmonth": 10,
+        "birthdate": 4,
+        "personality": "jock"
+    },
+    "graham": {
+        "name": [
+            "麦麦",
+            "グラハム",
+            "Graham"
+        ],
+        "species": "hamster",
+        "birthmonth": 6,
+        "birthdate": 20,
+        "personality": "smug"
+    },
+    "greta": {
+        "name": [
+            "如意",
+            "ふくこ",
+            "Greta"
+        ],
+        "species": "mouse",
+        "birthmonth": 9,
+        "birthdate": 5,
+        "personality": "snooty"
+    },
+    "grizzly": {
+        "name": [
+            "穆穆",
+            "ムー",
+            "Grizzly"
+        ],
+        "species": "bear",
+        "birthmonth": 7,
+        "birthdate": 31,
+        "personality": "cranky"
+    },
+    "groucho": {
+        "name": [
+            "爪爪",
+            "クロー",
+            "Groucho"
+        ],
+        "species": "bear",
+        "birthmonth": 10,
+        "birthdate": 23,
+        "personality": "cranky"
+    },
+    "gruff": {
+        "name": [
+            "比利",
+            "ビリー",
+            "Gruff"
+        ],
+        "species": "goat",
+        "birthmonth": 8,
+        "birthdate": 29,
+        "personality": "cranky"
+    },
+    "gwen": {
+        "name": [
+            "宝拉",
+            "ポーラ",
+            "Gwen"
+        ],
+        "species": "penguin",
+        "birthmonth": 1,
+        "birthdate": 23,
+        "personality": "snooty"
+    },
+    "hamlet": {
+        "name": [
+            "哈姆",
+            "ハムスケ",
+            "Hamlet"
+        ],
+        "species": "hamster",
+        "birthmonth": 5,
+        "birthdate": 30,
+        "personality": "jock"
+    },
+    "hamphrey": {
+        "name": [
+            "小仓",
+            "ハムジ",
+            "Hamphrey"
+        ],
+        "species": "hamster",
+        "birthmonth": 2,
+        "birthdate": 25,
+        "personality": "cranky"
+    },
+    "hans": {
+        "name": [
+            "史奈鲁",
+            "スナイル",
+            "Hans"
+        ],
+        "species": "gorilla",
+        "birthmonth": 12,
+        "birthdate": 5,
+        "personality": "smug"
+    },
+    "harry": {
+        "name": [
+            "欧世豪",
+            "オリバー",
+            "Harry"
+        ],
+        "species": "hippo",
+        "birthmonth": 1,
+        "birthdate": 7,
+        "personality": "cranky"
+    },
+    "hazel2": {
+        "name": [
+            "艾栗丝",
+            "アイリス",
+            "Hazel"
+        ],
+        "species": "squirrel",
+        "birthmonth": 8,
+        "birthdate": 30,
+        "personality": "uchi"
+    },
+    "henry": {
+        "name": [
+            "亨利",
+            "ヘンリー",
+            "Henry"
+        ],
+        "species": "frog",
+        "birthmonth": 9,
+        "birthdate": 21,
+        "personality": "smug"
+    },
+    "hippeux": {
+        "name": [
+            "戴维",
+            "ディビッド",
+            "Hippeux"
+        ],
+        "species": "hippo",
+        "birthmonth": 10,
+        "birthdate": 15,
+        "personality": "smug"
+    },
+    "hopkins": {
+        "name": [
+            "风杰",
+            "プースケ",
+            "Hopkins"
+        ],
+        "species": "rabbit",
+        "birthmonth": 3,
+        "birthdate": 11,
+        "personality": "lazy"
+    },
+    "hopper": {
+        "name": [
+            "达满",
+            "ダルマン",
+            "Hopper"
+        ],
+        "species": "penguin",
+        "birthmonth": 4,
+        "birthdate": 6,
+        "personality": "cranky"
+    },
+    "hornsby": {
+        "name": [
+            "光雄",
+            "みつお",
+            "Hornsby"
+        ],
+        "species": "rhino",
+        "birthmonth": 3,
+        "birthdate": 20,
+        "personality": "lazy"
+    },
+    "huck": {
+        "name": [
+            "吸管",
+            "ストロー",
+            "Huck"
+        ],
+        "species": "frog",
+        "birthmonth": 7,
+        "birthdate": 9,
+        "personality": "smug"
+    },
+    "hugh": {
+        "name": [
+            "阿猪",
+            "クッチャネ",
+            "Hugh"
+        ],
+        "species": "pig",
+        "birthmonth": 12,
+        "birthdate": 30,
+        "personality": "lazy"
+    },
+    "iggly": {
+        "name": [
+            "花寿司",
+            "のりまき",
+            "Iggly"
+        ],
+        "species": "penguin",
+        "birthmonth": 11,
+        "birthdate": 2,
+        "personality": "jock"
+    },
+    "ike": {
+        "name": [
+            "大功",
+            "ダイク",
+            "Ike"
+        ],
+        "species": "bear",
+        "birthmonth": 5,
+        "birthdate": 16,
+        "personality": "cranky"
+    },
+    "ione": {
+        "name": [
+            "穗星",
+            "スピカ",
+            "Ione"
+        ],
+        "species": "squirrel",
+        "birthmonth": 9,
+        "birthdate": 11,
+        "personality": "normal"
+    },
+    "jacob": {
+        "name": [
+            "余板",
+            "ジャコテン",
+            "Jacob"
+        ],
+        "species": "bird",
+        "birthmonth": 8,
+        "birthdate": 24,
+        "personality": "lazy"
+    },
+    "jacques": {
+        "name": [
+            "赵奇",
+            "ジョッキー",
+            "Jacques"
+        ],
+        "species": "bird",
+        "birthmonth": 6,
+        "birthdate": 22,
+        "personality": "smug"
+    },
+    "jambette": {
+        "name": [
+            "翡翠",
+            "エスメラルダ",
+            "Jambette"
+        ],
+        "species": "frog",
+        "birthmonth": 10,
+        "birthdate": 27,
+        "personality": "normal"
+    },
+    "jay": {
+        "name": [
+            "阿燕",
+            "ツバクロ",
+            "Jay"
+        ],
+        "species": "bird",
+        "birthmonth": 7,
+        "birthdate": 17,
+        "personality": "jock"
+    },
+    "jeremiah": {
+        "name": [
+            "阿刻",
+            "クワトロ",
+            "Jeremiah"
+        ],
+        "species": "frog",
+        "birthmonth": 7,
+        "birthdate": 8,
+        "personality": "lazy"
+    },
+    "jitters": {
+        "name": [
+            "纪诺",
+            "ジーニョ",
+            "Jitters"
+        ],
+        "species": "bird",
+        "birthmonth": 2,
+        "birthdate": 2,
+        "personality": "jock"
+    },
+    "joey": {
+        "name": [
+            "李察",
+            "リチャード",
+            "Joey"
+        ],
+        "species": "duck",
+        "birthmonth": 1,
+        "birthdate": 3,
+        "personality": "lazy"
+    },
+    "judy": {
+        "name": [
+            "美玲",
+            "みすず",
+            "Judy"
+        ],
+        "species": "cub",
+        "birthmonth": 3,
+        "birthdate": 10,
+        "personality": "snooty"
+    },
+    "julia": {
+        "name": [
+            "朱莉亚",
+            "ジュリア",
+            "Julia"
+        ],
+        "species": "ostrich",
+        "birthmonth": 7,
+        "birthdate": 31,
+        "personality": "snooty"
+    },
+    "julian": {
+        "name": [
+            "朱黎",
+            "ジュリー",
+            "Julian"
+        ],
+        "species": "horse",
+        "birthmonth": 3,
+        "birthdate": 15,
+        "personality": "smug"
+    },
+    "june": {
+        "name": [
+            "阿妹",
+            "メイ",
+            "June"
+        ],
+        "species": "cub",
+        "birthmonth": 5,
+        "birthdate": 21,
+        "personality": "normal"
+    },
+    "kabuki": {
+        "name": [
+            "戈伍纪",
+            "かぶきち",
+            "Kabuki"
+        ],
+        "species": "cat",
+        "birthmonth": 11,
+        "birthdate": 29,
+        "personality": "cranky"
+    },
+    "katt": {
+        "name": [
+            "巧巧",
+            "ちょい",
+            "Katt"
+        ],
+        "species": "cat",
+        "birthmonth": 4,
+        "birthdate": 27,
+        "personality": "uchi"
+    },
+    "keaton": {
+        "name": [
+            "法兰克",
+            "フランク",
+            "Keaton"
+        ],
+        "species": "eagle",
+        "birthmonth": 6,
+        "birthdate": 1,
+        "personality": "smug"
+    },
+    "ken": {
+        "name": [
+            "乌骨鸡",
+            "クロベエ",
+            "Ken"
+        ],
+        "species": "chicken",
+        "birthmonth": 12,
+        "birthdate": 23,
+        "personality": "smug"
+    },
+    "ketchup": {
+        "name": [
+            "番茄酱",
+            "ケチャップ",
+            "Ketchup"
+        ],
+        "species": "duck",
+        "birthmonth": 7,
+        "birthdate": 27,
+        "personality": "peppy"
+    },
+    "kevin": {
+        "name": [
+            "伊比利",
+            "イノッチ",
+            "Kevin"
+        ],
+        "species": "pig",
+        "birthmonth": 4,
+        "birthdate": 26,
+        "personality": "jock"
+    },
+    "kid-cat": {
+        "name": [
+            "阿一",
+            "１ごう",
+            "Kid Cat"
+        ],
+        "species": "cat",
+        "birthmonth": 8,
+        "birthdate": 1,
+        "personality": "jock"
+    },
+    "kidd": {
+        "name": [
+            "文青",
+            "やさお",
+            "Kidd"
+        ],
+        "species": "goat",
+        "birthmonth": 6,
+        "birthdate": 28,
+        "personality": "smug"
+    },
+    "kiki": {
+        "name": [
+            "余子酱",
+            "キャビア",
+            "Kiki"
+        ],
+        "species": "cat",
+        "birthmonth": 10,
+        "birthdate": 8,
+        "personality": "normal"
+    },
+    "kitt": {
+        "name": [
+            "缝缝",
+            "アップリケ",
+            "Kitt"
+        ],
+        "species": "kangaroo",
+        "birthmonth": 10,
+        "birthdate": 11,
+        "personality": "normal"
+    },
+    "kitty": {
+        "name": [
+            "朱古莉",
+            "ショコラ",
+            "Kitty"
+        ],
+        "species": "cat",
+        "birthmonth": 2,
+        "birthdate": 15,
+        "personality": "snooty"
+    },
+    "klaus": {
+        "name": [
+            "熊战士",
+            "クマロス",
+            "Klaus"
+        ],
+        "species": "bear",
+        "birthmonth": 3,
+        "birthdate": 31,
+        "personality": "smug"
+    },
+    "knox": {
+        "name": [
+            "金阁",
+            "キンカク",
+            "Knox"
+        ],
+        "species": "chicken",
+        "birthmonth": 11,
+        "birthdate": 23,
+        "personality": "cranky"
+    },
+    "kody": {
+        "name": [
+            "艾德豪",
+            "アイダホ",
+            "Kody"
+        ],
+        "species": "cub",
+        "birthmonth": 9,
+        "birthdate": 28,
+        "personality": "jock"
+    },
+    "kyle": {
+        "name": [
+            "李可",
+            "リカルド",
+            "Kyle"
+        ],
+        "species": "wolf",
+        "birthmonth": 12,
+        "birthdate": 6,
+        "personality": "smug"
+    },
+    "leonardo": {
+        "name": [
+            "阿彪",
+            "ヒョウタ",
+            "Leonardo"
+        ],
+        "species": "tiger",
+        "birthmonth": 5,
+        "birthdate": 15,
+        "personality": "jock"
+    },
+    "leopold": {
+        "name": [
+            "老狮",
+            "ティーチャー",
+            "Leopold"
+        ],
+        "species": "lion",
+        "birthmonth": 8,
+        "birthdate": 14,
+        "personality": "smug"
+    },
+    "lily": {
+        "name": [
+            "雷妮",
+            "レイニー",
+            "Lily"
+        ],
+        "species": "frog",
+        "birthmonth": 2,
+        "birthdate": 4,
+        "personality": "normal"
+    },
+    "limberg": {
+        "name": [
+            "韭菜",
+            "らっきょ",
+            "Limberg"
+        ],
+        "species": "mouse",
+        "birthmonth": 10,
+        "birthdate": 17,
+        "personality": "cranky"
+    },
+    "lionel": {
+        "name": [
+            "赖恩睿",
+            "ライオネル",
+            "Lionel"
+        ],
+        "species": "lion",
+        "birthmonth": 7,
+        "birthdate": 29,
+        "personality": "smug"
+    },
+    "lobo": {
+        "name": [
+            "潘奇隆",
+            "ブンジロウ",
+            "Lobo"
+        ],
+        "species": "wolf",
+        "birthmonth": 11,
+        "birthdate": 5,
+        "personality": "cranky"
+    },
+    "lolly": {
+        "name": [
+            "柠檬娜",
+            "ラムネ",
+            "Lolly"
+        ],
+        "species": "cat",
+        "birthmonth": 3,
+        "birthdate": 27,
+        "personality": "normal"
+    },
+    "lopez": {
+        "name": [
+            "汤姆",
+            "トムソン",
+            "Lopez"
+        ],
+        "species": "deer",
+        "birthmonth": 8,
+        "birthdate": 20,
+        "personality": "smug"
+    },
+    "louie": {
+        "name": [
+            "壮壮",
+            "マッスル",
+            "Louie"
+        ],
+        "species": "gorilla",
+        "birthmonth": 3,
+        "birthdate": 26,
+        "personality": "jock"
+    },
+    "lucha": {
+        "name": [
+            "摔角鸦",
+            "マスカラス",
+            "Lucha"
+        ],
+        "species": "bird",
+        "birthmonth": 12,
+        "birthdate": 12,
+        "personality": "smug"
+    },
+    "lucky": {
+        "name": [
+            "大吉",
+            "ラッキー",
+            "Lucky"
+        ],
+        "species": "dog",
+        "birthmonth": 11,
+        "birthdate": 4,
+        "personality": "lazy"
+    },
+    "lucy": {
+        "name": [
+            "露西",
+            "ルーシー",
+            "Lucy"
+        ],
+        "species": "pig",
+        "birthmonth": 6,
+        "birthdate": 2,
+        "personality": "normal"
+    },
+    "lyman": {
+        "name": [
+            "敖志明",
+            "オズモンド",
+            "Lyman"
+        ],
+        "species": "koala",
+        "birthmonth": 10,
+        "birthdate": 12,
+        "personality": "jock"
+    },
+    "mac": {
+        "name": [
+            "金牌",
+            "チャンプ",
+            "Mac"
+        ],
+        "species": "dog",
+        "birthmonth": 11,
+        "birthdate": 11,
+        "personality": "jock"
+    },
+    "maddie": {
+        "name": [
+            "麻蓉",
+            "マロン",
+            "Maddie"
+        ],
+        "species": "dog",
+        "birthmonth": 1,
+        "birthdate": 11,
+        "personality": "peppy"
+    },
+    "maelle": {
+        "name": [
+            "安妮",
+            "アンヌ",
+            "Maelle"
+        ],
+        "species": "duck",
+        "birthmonth": 4,
+        "birthdate": 8,
+        "personality": "snooty"
+    },
+    "maggie": {
+        "name": [
+            "玛格",
+            "マーガレット",
+            "Maggie"
+        ],
+        "species": "pig",
+        "birthmonth": 9,
+        "birthdate": 3,
+        "personality": "normal"
+    },
+    "mallary": {
+        "name": [
+            "苏米",
+            "スミモモ",
+            "Mallary"
+        ],
+        "species": "duck",
+        "birthmonth": 11,
+        "birthdate": 17,
+        "personality": "snooty"
+    },
+    "maple": {
+        "name": [
+            "小枫",
+            "メープル",
+            "Maple"
+        ],
+        "species": "cub",
+        "birthmonth": 6,
+        "birthdate": 15,
+        "personality": "normal"
+    },
+    "marcel": {
+        "name": [
+            "文字烧",
+            "もんじゃ",
+            "Marcel"
+        ],
+        "species": "dog",
+        "birthmonth": 12,
+        "birthdate": 31,
+        "personality": "lazy"
+    },
+    "marcie": {
+        "name": [
+            "玛莉亚",
+            "マリア",
+            "Marcie"
+        ],
+        "species": "kangaroo",
+        "birthmonth": 5,
+        "birthdate": 31,
+        "personality": "normal"
+    },
+    "margie": {
+        "name": [
+            "莎莉",
+            "サリー",
+            "Margie"
+        ],
+        "species": "elephant",
+        "birthmonth": 1,
+        "birthdate": 28,
+        "personality": "normal"
+    },
+    "marina": {
+        "name": [
+            "章立娜",
+            "タコリーナ",
+            "Marina"
+        ],
+        "species": "octopus",
+        "birthmonth": 6,
+        "birthdate": 26,
+        "personality": "normal"
+    },
+    "marlo": {
+        "name": [
+            "胖督",
+            "ドンチャン",
+            "Marlo"
+        ],
+        "species": "hamster",
+        "birthmonth": 6,
+        "birthdate": 26,
+        "personality": "cranky"
+    },
+    "marshal": {
+        "name": [
+            "小润",
+            "ジュン",
+            "Marshal"
+        ],
+        "species": "squirrel",
+        "birthmonth": 9,
+        "birthdate": 29,
+        "personality": "smug"
+    },
+    "marty": {
+        "name": [
+            "玛丁",
+            "マーティー",
+            "Marty"
+        ],
+        "species": "cub",
+        "birthmonth": 4,
+        "birthdate": 16,
+        "personality": "lazy"
+    },
+    "mathilda": {
+        "name": [
+            "亚莎",
+            "アザラク",
+            "Mathilda"
+        ],
+        "species": "kangaroo",
+        "birthmonth": 11,
+        "birthdate": 12,
+        "personality": "snooty"
+    },
+    "megan": {
+        "name": [
+            "糖果",
+            "キャンディ",
+            "Megan"
+        ],
+        "species": "bear",
+        "birthmonth": 3,
+        "birthdate": 13,
+        "personality": "normal"
+    },
+    "melba": {
+        "name": [
+            "阿得",
+            "アデレード",
+            "Melba"
+        ],
+        "species": "koala",
+        "birthmonth": 4,
+        "birthdate": 12,
+        "personality": "normal"
+    },
+    "merengue": {
+        "name": [
+            "草莓",
+            "パティ",
+            "Merengue"
+        ],
+        "species": "rhino",
+        "birthmonth": 3,
+        "birthdate": 19,
+        "personality": "normal"
+    },
+    "merry": {
+        "name": [
+            "莎莎",
+            "さっち",
+            "Merry"
+        ],
+        "species": "cat",
+        "birthmonth": 6,
+        "birthdate": 29,
+        "personality": "peppy"
+    },
+    "midge": {
+        "name": [
+            "小酒窝",
+            "うずまき",
+            "Midge"
+        ],
+        "species": "bird",
+        "birthmonth": 3,
+        "birthdate": 12,
+        "personality": "normal"
+    },
+    "mint": {
+        "name": [
+            "小敏",
+            "ミント",
+            "Mint"
+        ],
+        "species": "squirrel",
+        "birthmonth": 5,
+        "birthdate": 2,
+        "personality": "snooty"
+    },
+    "mira": {
+        "name": [
+            "蜜拉",
+            "ミラコ",
+            "Mira"
+        ],
+        "species": "rabbit",
+        "birthmonth": 7,
+        "birthdate": 6,
+        "personality": "uchi"
+    },
+    "miranda": {
+        "name": [
+            "米兰达",
+            "ミランダ",
+            "Miranda"
+        ],
+        "species": "duck",
+        "birthmonth": 4,
+        "birthdate": 23,
+        "personality": "snooty"
+    },
+    "mitzi": {
+        "name": [
+            "圆圆",
+            "マール",
+            "Mitzi"
+        ],
+        "species": "cat",
+        "birthmonth": 9,
+        "birthdate": 25,
+        "personality": "normal"
+    },
+    "moe": {
+        "name": [
+            "仁平",
+            "ジンペイ",
+            "Moe"
+        ],
+        "species": "cat",
+        "birthmonth": 1,
+        "birthdate": 12,
+        "personality": "lazy"
+    },
+    "molly": {
+        "name": [
+            "亚美",
+            "カモミ",
+            "Molly"
+        ],
+        "species": "duck",
+        "birthmonth": 3,
+        "birthdate": 7,
+        "personality": "normal"
+    },
+    "monique": {
+        "name": [
+            "珍珍",
+            "ジェーン",
+            "Monique"
+        ],
+        "species": "cat",
+        "birthmonth": 9,
+        "birthdate": 30,
+        "personality": "snooty"
+    },
+    "monty": {
+        "name": [
+            "皮猴",
+            "サルモンティ",
+            "Monty"
+        ],
+        "species": "monkey",
+        "birthmonth": 12,
+        "birthdate": 7,
+        "personality": "cranky"
+    },
+    "moose": {
+        "name": [
+            "阿聘",
+            "ピン",
+            "Moose"
+        ],
+        "species": "mouse",
+        "birthmonth": 9,
+        "birthdate": 13,
+        "personality": "jock"
+    },
+    "mott": {
+        "name": [
+            "李克",
+            "リック",
+            "Mott"
+        ],
+        "species": "lion",
+        "birthmonth": 7,
+        "birthdate": 10,
+        "personality": "jock"
+    },
+    "muffy": {
+        "name": [
+            "彭澎",
+            "フリル",
+            "Muffy"
+        ],
+        "species": "sheep",
+        "birthmonth": 2,
+        "birthdate": 14,
+        "personality": "uchi"
+    },
+    "murphy": {
+        "name": [
+            "宪雄",
+            "のりお",
+            "Murphy"
+        ],
+        "species": "cub",
+        "birthmonth": 12,
+        "birthdate": 29,
+        "personality": "cranky"
+    },
+    "nan": {
+        "name": [
+            "墨墨",
+            "スミ",
+            "Nan"
+        ],
+        "species": "goat",
+        "birthmonth": 8,
+        "birthdate": 24,
+        "personality": "normal"
+    },
+    "nana": {
+        "name": [
+            "七七",
+            "チッチ",
+            "Nana"
+        ],
+        "species": "monkey",
+        "birthmonth": 8,
+        "birthdate": 23,
+        "personality": "normal"
+    },
+    "naomi": {
+        "name": [
+            "玉兰",
+            "ハナコ",
+            "Naomi"
+        ],
+        "species": "cow",
+        "birthmonth": 2,
+        "birthdate": 28,
+        "personality": "snooty"
+    },
+    "nate": {
+        "name": [
+            "巴克思",
+            "バッカス",
+            "Nate"
+        ],
+        "species": "bear",
+        "birthmonth": 8,
+        "birthdate": 16,
+        "personality": "lazy"
+    },
+    "nibbles": {
+        "name": [
+            "咬咬",
+            "ガリガリ",
+            "Nibbles"
+        ],
+        "species": "squirrel",
+        "birthmonth": 7,
+        "birthdate": 19,
+        "personality": "peppy"
+    },
+    "nobuo": {
+        "name": [
+            "信雄",
+            "のぶお",
+            "Chabwick"
+        ],
+        "species": "penguin",
+        "birthmonth": 12,
+        "birthdate": 24,
+        "personality": "lazy"
+    },
+    "norma": {
+        "name": [
+            "晨曦",
+            "いさこ",
+            "Norma"
+        ],
+        "species": "cow",
+        "birthmonth": 9,
+        "birthdate": 20,
+        "personality": "normal"
+    },
+    "octavian": {
+        "name": [
+            "张瑜",
+            "おくたろう",
+            "Octavian"
+        ],
+        "species": "octopus",
+        "birthmonth": 9,
+        "birthdate": 20,
+        "personality": "cranky"
+    },
+    "ohare": {
+        "name": [
+            "桑托斯",
+            "サントス",
+            "O'Hare"
+        ],
+        "species": "rabbit",
+        "birthmonth": 7,
+        "birthdate": 24,
+        "personality": "smug"
+    },
+    "olaf": {
+        "name": [
+            "安东尼",
+            "アントニオ",
+            "Olaf"
+        ],
+        "species": "anteater",
+        "birthmonth": 5,
+        "birthdate": 19,
+        "personality": "smug"
+    },
+    "olive": {
+        "name": [
+            "毕克萝",
+            "ピッコロ",
+            "Olive"
+        ],
+        "species": "cub",
+        "birthmonth": 7,
+        "birthdate": 12,
+        "personality": "normal"
+    },
+    "olivia": {
+        "name": [
+            "奥莉",
+            "オリビア",
+            "Olivia"
+        ],
+        "species": "cat",
+        "birthmonth": 2,
+        "birthdate": 3,
+        "personality": "snooty"
+    },
+    "opal": {
+        "name": [
+            "露露",
+            "オパール",
+            "Opal"
+        ],
+        "species": "elephant",
+        "birthmonth": 1,
+        "birthdate": 20,
+        "personality": "snooty"
+    },
+    "ozzie": {
+        "name": [
+            "阿栗",
+            "ドングリ",
+            "Ozzie"
+        ],
+        "species": "koala",
+        "birthmonth": 5,
+        "birthdate": 7,
+        "personality": "lazy"
+    },
+    "pancetti": {
+        "name": [
+            "布兰妮",
+            "ブリトニー",
+            "Pancetti"
+        ],
+        "species": "pig",
+        "birthmonth": 11,
+        "birthdate": 14,
+        "personality": "snooty"
+    },
+    "pango": {
+        "name": [
+            "佩希",
+            "パトラ",
+            "Pango"
+        ],
+        "species": "anteater",
+        "birthmonth": 11,
+        "birthdate": 9,
+        "personality": "peppy"
+    },
+    "paolo": {
+        "name": [
+            "保罗",
+            "パオロ",
+            "Paolo"
+        ],
+        "species": "elephant",
+        "birthmonth": 5,
+        "birthdate": 5,
+        "personality": "lazy"
+    },
+    "papi": {
+        "name": [
+            "小冈",
+            "オカッピ",
+            "Papi"
+        ],
+        "species": "horse",
+        "birthmonth": 1,
+        "birthdate": 10,
+        "personality": "lazy"
+    },
+    "pashmina": {
+        "name": [
+            "芭芭拉",
+            "バーバラ",
+            "Pashmina"
+        ],
+        "species": "goat",
+        "birthmonth": 12,
+        "birthdate": 26,
+        "personality": "uchi"
+    },
+    "pate": {
+        "name": [
+            "爱哭鬼",
+            "ナッキー",
+            "Pate"
+        ],
+        "species": "duck",
+        "birthmonth": 2,
+        "birthdate": 23,
+        "personality": "peppy"
+    },
+    "patty": {
+        "name": [
+            "阿排",
+            "カルピ",
+            "Patty"
+        ],
+        "species": "cow",
+        "birthmonth": 5,
+        "birthdate": 10,
+        "personality": "peppy"
+    },
+    "paula": {
+        "name": [
+            "瑞秋",
+            "レイチェル",
+            "Paula"
+        ],
+        "species": "bear",
+        "birthmonth": 3,
+        "birthdate": 22,
+        "personality": "uchi"
+    },
+    "peaches": {
+        "name": [
+            "小薰",
+            "ドサコ",
+            "Peaches"
+        ],
+        "species": "horse",
+        "birthmonth": 11,
+        "birthdate": 28,
+        "personality": "normal"
+    },
+    "peanut": {
+        "name": [
+            "小桃",
+            "ももこ",
+            "Peanut"
+        ],
+        "species": "squirrel",
+        "birthmonth": 6,
+        "birthdate": 8,
+        "personality": "peppy"
+    },
+    "pecan": {
+        "name": [
+            "雷贝嘉",
+            "レベッカ",
+            "Pecan"
+        ],
+        "species": "squirrel",
+        "birthmonth": 9,
+        "birthdate": 10,
+        "personality": "snooty"
+    },
+    "peck": {
+        "name": [
+            "文雄",
+            "ふみたろう",
+            "Peck"
+        ],
+        "species": "bird",
+        "birthmonth": 7,
+        "birthdate": 25,
+        "personality": "jock"
+    },
+    "peewee": {
+        "name": [
+            "哑铃",
+            "ダンベル",
+            "Peewee"
+        ],
+        "species": "gorilla",
+        "birthmonth": 9,
+        "birthdate": 11,
+        "personality": "cranky"
+    },
+    "peggy": {
+        "name": [
+            "千惠",
+            "ちえり",
+            "Peggy"
+        ],
+        "species": "pig",
+        "birthmonth": 5,
+        "birthdate": 23,
+        "personality": "peppy"
+    },
+    "pekoe": {
+        "name": [
+            "佳敏",
+            "ジャスミン",
+            "Pekoe"
+        ],
+        "species": "cub",
+        "birthmonth": 5,
+        "birthdate": 18,
+        "personality": "normal"
+    },
+    "penelope": {
+        "name": [
+            "小啾",
+            "チューこ",
+            "Penelope"
+        ],
+        "species": "mouse",
+        "birthmonth": 2,
+        "birthdate": 5,
+        "personality": "peppy"
+    },
+    "petri": {
+        "name": [
+            "理佳",
+            "リカ",
+            "Petri"
+        ],
+        "species": "mouse",
+        "birthmonth": 10,
+        "birthdate": 23,
+        "personality": "snooty"
+    },
+    "petunia2": {
+        "name": [
+            "碧芊",
+            "ペチュニア",
+            "Azalea"
+        ],
+        "species": "rhino",
+        "birthmonth": 12,
+        "birthdate": 18,
+        "personality": "snooty"
+    },
+    "phil": {
+        "name": [
+            "凯恩",
+            "ケイン",
+            "Phil"
+        ],
+        "species": "ostrich",
+        "birthmonth": 11,
+        "birthdate": 27,
+        "personality": "smug"
+    },
+    "phoebe": {
+        "name": [
+            "火鸟",
+            "ヒノコ",
+            "Phoebe"
+        ],
+        "species": "ostrich",
+        "birthmonth": 4,
+        "birthdate": 22,
+        "personality": "uchi"
+    },
+    "pierce": {
+        "name": [
+            "谢博强",
+            "セバスチャン",
+            "Pierce"
+        ],
+        "species": "eagle",
+        "birthmonth": 1,
+        "birthdate": 8,
+        "personality": "jock"
+    },
+    "pietro": {
+        "name": [
+            "皮耶罗",
+            "ジュペッティ",
+            "Pietro"
+        ],
+        "species": "sheep",
+        "birthmonth": 4,
+        "birthdate": 19,
+        "personality": "smug"
+    },
+    "pinky": {
+        "name": [
+            "丹丹",
+            "タンタン",
+            "Pinky"
+        ],
+        "species": "bear",
+        "birthmonth": 9,
+        "birthdate": 9,
+        "personality": "peppy"
+    },
+    "piper": {
+        "name": [
+            "丽婷",
+            "レイコ",
+            "Piper"
+        ],
+        "species": "bird",
+        "birthmonth": 4,
+        "birthdate": 18,
+        "personality": "peppy"
+    },
+    "pippy": {
+        "name": [
+            "罗塔",
+            "ロッタ",
+            "Pippy"
+        ],
+        "species": "rabbit",
+        "birthmonth": 6,
+        "birthdate": 14,
+        "personality": "peppy"
+    },
+    "pironkon": {
+        "name": [
+            "皮隆孔",
+            "ピロンコン",
+            "Roswell"
+        ],
+        "species": "alligator",
+        "birthmonth": 5,
+        "birthdate": 2,
+        "personality": "lazy"
+    },
+    "plucky": {
+        "name": [
+            "帕塔雅",
+            "パタヤ",
+            "Plucky"
+        ],
+        "species": "chicken",
+        "birthmonth": 10,
+        "birthdate": 12,
+        "personality": "uchi"
+    },
+    "pompom": {
+        "name": [
+            "海苔裴",
+            "のりっぺ",
+            "Pompom"
+        ],
+        "species": "duck",
+        "birthmonth": 2,
+        "birthdate": 11,
+        "personality": "peppy"
+    },
+    "poncho": {
+        "name": [
+            "蓬蓬",
+            "ポンチョ",
+            "Poncho"
+        ],
+        "species": "cub",
+        "birthmonth": 1,
+        "birthdate": 2,
+        "personality": "jock"
+    },
+    "poppy": {
+        "name": [
+            "软糖",
+            "グミ",
+            "Poppy"
+        ],
+        "species": "squirrel",
+        "birthmonth": 8,
+        "birthdate": 5,
+        "personality": "normal"
+    },
+    "portia": {
+        "name": [
+            "傅兰",
+            "ブレンダ",
+            "Portia"
+        ],
+        "species": "dog",
+        "birthmonth": 10,
+        "birthdate": 25,
+        "personality": "snooty"
+    },
+    "prince": {
+        "name": [
+            "青呱",
+            "カール",
+            "Prince"
+        ],
+        "species": "frog",
+        "birthmonth": 7,
+        "birthdate": 21,
+        "personality": "lazy"
+    },
+    "puck": {
+        "name": [
+            "哈奇",
+            "ホッケー",
+            "Puck"
+        ],
+        "species": "penguin",
+        "birthmonth": 2,
+        "birthdate": 21,
+        "personality": "lazy"
+    },
+    "puddles": {
+        "name": [
+            "剪刀",
+            "チョキ",
+            "Puddles"
+        ],
+        "species": "frog",
+        "birthmonth": 1,
+        "birthdate": 13,
+        "personality": "peppy"
+    },
+    "pudge": {
+        "name": [
+            "阿钦",
+            "きんぞう",
+            "Pudge"
+        ],
+        "species": "cub",
+        "birthmonth": 6,
+        "birthdate": 11,
+        "personality": "lazy"
+    },
+    "punchy": {
+        "name": [
+            "尔光",
+            "ビンタ",
+            "Punchy"
+        ],
+        "species": "cat",
+        "birthmonth": 4,
+        "birthdate": 11,
+        "personality": "lazy"
+    },
+    "purrl": {
+        "name": [
+            "小玉",
+            "たま",
+            "Purrl"
+        ],
+        "species": "cat",
+        "birthmonth": 5,
+        "birthdate": 29,
+        "personality": "snooty"
+    },
+    "queenie": {
+        "name": [
+            "果果",
+            "タキュ",
+            "Queenie"
+        ],
+        "species": "ostrich",
+        "birthmonth": 11,
+        "birthdate": 13,
+        "personality": "snooty"
+    },
+    "quillson": {
+        "name": [
+            "何童",
+            "タックン",
+            "Quillson"
+        ],
+        "species": "duck",
+        "birthmonth": 12,
+        "birthdate": 22,
+        "personality": "smug"
+    },
+    "quinn": {
+        "name": [
+            "席恩",
+            "シオン",
+            "Quinn"
+        ],
+        "species": "eagle",
+        "birthmonth": 1,
+        "birthdate": 20,
+        "personality": "uchi"
+    },
+    "raddle": {
+        "name": [
+            "嘉俊",
+            "カックン",
+            "Raddle"
+        ],
+        "species": "frog",
+        "birthmonth": 6,
+        "birthdate": 6,
+        "personality": "lazy"
+    },
+    "rasher": {
+        "name": [
+            "古烈",
+            "グレオ",
+            "Rasher"
+        ],
+        "species": "pig",
+        "birthmonth": 4,
+        "birthdate": 7,
+        "personality": "cranky"
+    },
+    "raymond": {
+        "name": [
+            "杰克",
+            "ジャック",
+            "Raymond"
+        ],
+        "species": "cat",
+        "birthmonth": 10,
+        "birthdate": 1,
+        "personality": "smug"
+    },
+    "renee": {
+        "name": [
+            "柴姐",
+            "おさい",
+            "Renée"
+        ],
+        "species": "rhino",
+        "birthmonth": 5,
+        "birthdate": 28,
+        "personality": "uchi"
+    },
+    "reneigh": {
+        "name": [
+            "雷哈娜",
+            "リアーナ",
+            "Reneigh"
+        ],
+        "species": "horse",
+        "birthmonth": 6,
+        "birthdate": 4,
+        "personality": "uchi"
+    },
+    "rex": {
+        "name": [
+            "晴天",
+            "サンデー",
+            "Rex"
+        ],
+        "species": "lion",
+        "birthmonth": 7,
+        "birthdate": 24,
+        "personality": "lazy"
+    },
+    "rhonda": {
+        "name": [
+            "梦梦",
+            "ユメコ",
+            "Rhonda"
+        ],
+        "species": "rhino",
+        "birthmonth": 1,
+        "birthdate": 24,
+        "personality": "normal"
+    },
+    "ribbot": {
+        "name": [
+            "锵锵",
+            "ガチャ",
+            "Ribbot"
+        ],
+        "species": "frog",
+        "birthmonth": 2,
+        "birthdate": 13,
+        "personality": "jock"
+    },
+    "ricky": {
+        "name": [
+            "嘉治",
+            "カジロウ",
+            "Ricky"
+        ],
+        "species": "squirrel",
+        "birthmonth": 9,
+        "birthdate": 14,
+        "personality": "cranky"
+    },
+    "rilla": {
+        "name": [
+            "莉拉",
+            "リラ",
+            "Rilla"
+        ],
+        "species": "gorilla",
+        "birthmonth": 11,
+        "birthdate": 1,
+        "personality": "peppy"
+    },
+    "rio": {
+        "name": [
+            "勒内卢",
+            "デジャネイロ",
+            "Rio"
+        ],
+        "species": "ostrich",
+        "birthmonth": 9,
+        "birthdate": 10,
+        "personality": "peppy"
+    },
+    "rizzo": {
+        "name": [
+            "悄俊",
+            "ちょろきち",
+            "Rizzo"
+        ],
+        "species": "mouse",
+        "birthmonth": 1,
+        "birthdate": 17,
+        "personality": "cranky"
+    },
+    "roald": {
+        "name": [
+            "企鹅达",
+            "ペンタ",
+            "Roald"
+        ],
+        "species": "penguin",
+        "birthmonth": 1,
+        "birthdate": 5,
+        "personality": "jock"
+    },
+    "robin": {
+        "name": [
+            "喳喳",
+            "パーチク",
+            "Robin"
+        ],
+        "species": "bird",
+        "birthmonth": 12,
+        "birthdate": 4,
+        "personality": "snooty"
+    },
+    "rocco": {
+        "name": [
+            "孔在来",
+            "ゴンザレス",
+            "Rocco"
+        ],
+        "species": "hippo",
+        "birthmonth": 8,
+        "birthdate": 18,
+        "personality": "cranky"
+    },
+    "rocket": {
+        "name": [
+            "阿四",
+            "４ごう",
+            "Rocket"
+        ],
+        "species": "gorilla",
+        "birthmonth": 4,
+        "birthdate": 14,
+        "personality": "uchi"
+    },
+    "rod": {
+        "name": [
+            "阿将",
+            "ジャン",
+            "Rod"
+        ],
+        "species": "mouse",
+        "birthmonth": 8,
+        "birthdate": 14,
+        "personality": "jock"
+    },
+    "rodeo": {
+        "name": [
+            "罗迪欧",
+            "ロデオ",
+            "Rodeo"
+        ],
+        "species": "bull",
+        "birthmonth": 10,
+        "birthdate": 29,
+        "personality": "lazy"
+    },
+    "rodney": {
+        "name": [
+            "米米",
+            "ジミー",
+            "Rodney"
+        ],
+        "species": "hamster",
+        "birthmonth": 11,
+        "birthdate": 10,
+        "personality": "smug"
+    },
+    "rolf": {
+        "name": [
+            "朱穆朗",
+            "チョモラン",
+            "Rolf"
+        ],
+        "species": "tiger",
+        "birthmonth": 8,
+        "birthdate": 22,
+        "personality": "cranky"
+    },
+    "rooney": {
+        "name": [
+            "麦克",
+            "マイク",
+            "Rooney"
+        ],
+        "species": "kangaroo",
+        "birthmonth": 12,
+        "birthdate": 1,
+        "personality": "cranky"
+    },
+    "rory": {
+        "name": [
+            "亚瑟",
+            "アーサー",
+            "Rory"
+        ],
+        "species": "lion",
+        "birthmonth": 8,
+        "birthdate": 7,
+        "personality": "jock"
+    },
+    "roscoe": {
+        "name": [
+            "黑马",
+            "シュバルツ",
+            "Roscoe"
+        ],
+        "species": "horse",
+        "birthmonth": 6,
+        "birthdate": 16,
+        "personality": "cranky"
+    },
+    "rosie": {
+        "name": [
+            "彭花",
+            "ブーケ",
+            "Rosie"
+        ],
+        "species": "cat",
+        "birthmonth": 2,
+        "birthdate": 27,
+        "personality": "peppy"
+    },
+    "rowan": {
+        "name": [
+            "戈麦斯",
+            "ゴメス",
+            "Rowan"
+        ],
+        "species": "tiger",
+        "birthmonth": 8,
+        "birthdate": 26,
+        "personality": "jock"
+    },
+    "ruby": {
+        "name": [
+            "月兔",
+            "ルナ",
+            "Ruby"
+        ],
+        "species": "rabbit",
+        "birthmonth": 12,
+        "birthdate": 25,
+        "personality": "peppy"
+    },
+    "rudy": {
+        "name": [
+            "茶茶",
+            "チャス",
+            "Rudy"
+        ],
+        "species": "cat",
+        "birthmonth": 12,
+        "birthdate": 20,
+        "personality": "jock"
+    },
+    "sally2": {
+        "name": [
+            "拉拉米",
+            "ララミー",
+            "Sally"
+        ],
+        "species": "squirrel",
+        "birthmonth": 6,
+        "birthdate": 19,
+        "personality": "normal"
+    },
+    "samson": {
+        "name": [
+            "和平",
+            "ピース",
+            "Samson"
+        ],
+        "species": "mouse",
+        "birthmonth": 7,
+        "birthdate": 5,
+        "personality": "jock"
+    },
+    "sandy": {
+        "name": [
+            "小岚",
+            "ラン",
+            "Sandy"
+        ],
+        "species": "ostrich",
+        "birthmonth": 10,
+        "birthdate": 21,
+        "personality": "normal"
+    },
+    "sasha": {
+        "name": [
+            "蜜雪儿",
+            "ミッチェル",
+            "Sasha"
+        ],
+        "species": "rabbit",
+        "birthmonth": 5,
+        "birthdate": 19,
+        "personality": "lazy"
+    },
+    "savannah": {
+        "name": [
+            "草斑娜",
+            "サバンナ",
+            "Savannah"
+        ],
+        "species": "horse",
+        "birthmonth": 1,
+        "birthdate": 25,
+        "personality": "normal"
+    },
+    "scoot": {
+        "name": [
+            "阿守",
+            "マモル",
+            "Scoot"
+        ],
+        "species": "duck",
+        "birthmonth": 6,
+        "birthdate": 13,
+        "personality": "jock"
+    },
+    "shari": {
+        "name": [
+            "雪莉",
+            "シェリー",
+            "Shari"
+        ],
+        "species": "monkey",
+        "birthmonth": 4,
+        "birthdate": 10,
+        "personality": "uchi"
+    },
+    "sheldon": {
+        "name": [
+            "克栗斯",
+            "クリス",
+            "Sheldon"
+        ],
+        "species": "squirrel",
+        "birthmonth": 2,
+        "birthdate": 26,
+        "personality": "jock"
+    },
+    "shep": {
+        "name": [
+            "包伯",
+            "ボブ",
+            "Shep"
+        ],
+        "species": "dog",
+        "birthmonth": 11,
+        "birthdate": 24,
+        "personality": "smug"
+    },
+    "sherb": {
+        "name": [
+            "雷姆",
+            "レム",
+            "Sherb"
+        ],
+        "species": "goat",
+        "birthmonth": 1,
+        "birthdate": 18,
+        "personality": "lazy"
+    },
+    "shino": {
+        "name": [
+            "佳芝",
+            "よしの",
+            "Shino"
+        ],
+        "species": "deer",
+        "birthmonth": 10,
+        "birthdate": 31,
+        "personality": "peppy"
+    },
+    "simon": {
+        "name": [
+            "远仁",
+            "エテキチ",
+            "Simon"
+        ],
+        "species": "monkey",
+        "birthmonth": 1,
+        "birthdate": 19,
+        "personality": "lazy"
+    },
+    "skye": {
+        "name": [
+            "百合",
+            "リリィ",
+            "Skye"
+        ],
+        "species": "wolf",
+        "birthmonth": 3,
+        "birthdate": 24,
+        "personality": "normal"
+    },
+    "sly": {
+        "name": [
+            "海德",
+            "ハイド",
+            "Sly"
+        ],
+        "species": "alligator",
+        "birthmonth": 11,
+        "birthdate": 15,
+        "personality": "jock"
+    },
+    "snake": {
+        "name": [
+            "百川",
+            "モモチ",
+            "Snake"
+        ],
+        "species": "rabbit",
+        "birthmonth": 11,
+        "birthdate": 3,
+        "personality": "jock"
+    },
+    "snooty": {
+        "name": [
+            "贵妃",
+            "こまち",
+            "Snooty"
+        ],
+        "species": "anteater",
+        "birthmonth": 10,
+        "birthdate": 24,
+        "personality": "snooty"
+    },
+    "soleil": {
+        "name": [
+            "安安",
+            "シャンティ",
+            "Soleil"
+        ],
+        "species": "hamster",
+        "birthmonth": 8,
+        "birthdate": 9,
+        "personality": "snooty"
+    },
+    "sparro": {
+        "name": [
+            "周之翔",
+            "ちゅんのすけ",
+            "Sparro"
+        ],
+        "species": "bird",
+        "birthmonth": 11,
+        "birthdate": 20,
+        "personality": "jock"
+    },
+    "spike": {
+        "name": [
+            "阿蹲",
+            "スクワット",
+            "Spike"
+        ],
+        "species": "rhino",
+        "birthmonth": 6,
+        "birthdate": 17,
+        "personality": "cranky"
+    },
+    "spork": {
+        "name": [
+            "肉肉",
+            "ポーク",
+            "Spork"
+        ],
+        "species": "pig",
+        "birthmonth": 9,
+        "birthdate": 3,
+        "personality": "lazy"
+    },
+    "sprinkle": {
+        "name": [
+            "冰莎",
+            "フラッペ",
+            "Sprinkle"
+        ],
+        "species": "penguin",
+        "birthmonth": 2,
+        "birthdate": 20,
+        "personality": "peppy"
+    },
+    "sprocket": {
+        "name": [
+            "鹤兹",
+            "ヘルツ",
+            "Sprocket"
+        ],
+        "species": "ostrich",
+        "birthmonth": 12,
+        "birthdate": 1,
+        "personality": "jock"
+    },
+    "static": {
+        "name": [
+            "闪电",
+            "スパーク",
+            "Static"
+        ],
+        "species": "squirrel",
+        "birthmonth": 7,
+        "birthdate": 9,
+        "personality": "cranky"
+    },
+    "stella": {
+        "name": [
+            "毡毡",
+            "アクリル",
+            "Stella"
+        ],
+        "species": "sheep",
+        "birthmonth": 4,
+        "birthdate": 9,
+        "personality": "normal"
+    },
+    "sterling": {
+        "name": [
+            "银阁",
+            "ギンカク",
+            "Sterling"
+        ],
+        "species": "eagle",
+        "birthmonth": 12,
+        "birthdate": 11,
+        "personality": "jock"
+    },
+    "stinky": {
+        "name": [
+            "男子汗",
+            "アセクサ",
+            "Stinky"
+        ],
+        "species": "cat",
+        "birthmonth": 8,
+        "birthdate": 17,
+        "personality": "jock"
+    },
+    "stitches": {
+        "name": [
+            "玩具熊",
+            "パッチ",
+            "Stitches"
+        ],
+        "species": "cub",
+        "birthmonth": 2,
+        "birthdate": 10,
+        "personality": "lazy"
+    },
+    "stu": {
+        "name": [
+            "毛乐时",
+            "モーリス",
+            "Stu"
+        ],
+        "species": "bull",
+        "birthmonth": 4,
+        "birthdate": 20,
+        "personality": "lazy"
+    },
+    "sydney": {
+        "name": [
+            "思颖",
+            "シドニー",
+            "Sydney"
+        ],
+        "species": "koala",
+        "birthmonth": 6,
+        "birthdate": 21,
+        "personality": "normal"
+    },
+    "sylvana": {
+        "name": [
+            "孟珮",
+            "もんぺ",
+            "Sylvana"
+        ],
+        "species": "squirrel",
+        "birthmonth": 10,
+        "birthdate": 22,
+        "personality": "normal"
+    },
+    "sylvia": {
+        "name": [
+            "希薇亚",
+            "シルビア",
+            "Sylvia"
+        ],
+        "species": "kangaroo",
+        "birthmonth": 5,
+        "birthdate": 3,
+        "personality": "uchi"
+    },
+    "t-bone": {
+        "name": [
+            "罗宋",
+            "ボルシチ",
+            "T-Bone"
+        ],
+        "species": "bull",
+        "birthmonth": 5,
+        "birthdate": 20,
+        "personality": "cranky"
+    },
+    "tabby": {
+        "name": [
+            "小虎",
+            "トラこ",
+            "Tabby"
+        ],
+        "species": "cat",
+        "birthmonth": 8,
+        "birthdate": 13,
+        "personality": "peppy"
+    },
+    "tad": {
+        "name": [
+            "阿田",
+            "タンボ",
+            "Tad"
+        ],
+        "species": "frog",
+        "birthmonth": 8,
+        "birthdate": 3,
+        "personality": "jock"
+    },
+    "tammi": {
+        "name": [
+            "四月",
+            "エイプリル",
+            "Tammi"
+        ],
+        "species": "monkey",
+        "birthmonth": 4,
+        "birthdate": 2,
+        "personality": "peppy"
+    },
+    "tammy": {
+        "name": [
+            "然姐",
+            "アネッサ",
+            "Tammy"
+        ],
+        "species": "cub",
+        "birthmonth": 6,
+        "birthdate": 23,
+        "personality": "uchi"
+    },
+    "tangy": {
+        "name": [
+            "纯纯",
+            "ヒャクパー",
+            "Tangy"
+        ],
+        "species": "cat",
+        "birthmonth": 6,
+        "birthdate": 17,
+        "personality": "peppy"
+    },
+    "tank": {
+        "name": [
+            "阿足",
+            "くるぶし",
+            "Tank"
+        ],
+        "species": "rhino",
+        "birthmonth": 5,
+        "birthdate": 6,
+        "personality": "jock"
+    },
+    "tasha": {
+        "name": [
+            "娜塔丽",
+            "ナターシャ",
+            "Tasha"
+        ],
+        "species": "squirrel",
+        "birthmonth": 11,
+        "birthdate": 30,
+        "personality": "snooty"
+    },
+    "teddy": {
+        "name": [
+            "太平",
+            "たいへいた",
+            "Teddy"
+        ],
+        "species": "bear",
+        "birthmonth": 9,
+        "birthdate": 26,
+        "personality": "jock"
+    },
+    "tex": {
+        "name": [
+            "伏特",
+            "ボルト",
+            "Tex"
+        ],
+        "species": "penguin",
+        "birthmonth": 10,
+        "birthdate": 6,
+        "personality": "smug"
+    },
+    "tia": {
+        "name": [
+            "茉莉",
+            "ティーナ",
+            "Tia"
+        ],
+        "species": "elephant",
+        "birthmonth": 11,
+        "birthdate": 18,
+        "personality": "normal"
+    },
+    "tiansheng": {
+        "name": [
+            "天圣",
+            "テンシン",
+            "Tiansheng"
+        ],
+        "species": "monkey",
+        "birthmonth": 8,
+        "birthdate": 18,
+        "personality": "jock"
+    },
+    "tiffany": {
+        "name": [
+            "大姐头",
+            "バズレー",
+            "Tiffany"
+        ],
+        "species": "rabbit",
+        "birthmonth": 1,
+        "birthdate": 9,
+        "personality": "snooty"
+    },
+    "timbra": {
+        "name": [
+            "阿司",
+            "つかさ",
+            "Timbra"
+        ],
+        "species": "sheep",
+        "birthmonth": 10,
+        "birthdate": 21,
+        "personality": "snooty"
+    },
+    "tipper": {
+        "name": [
+            "牧牧",
+            "まきば",
+            "Tipper"
+        ],
+        "species": "cow",
+        "birthmonth": 8,
+        "birthdate": 25,
+        "personality": "snooty"
+    },
+    "toby": {
+        "name": [
+            "咚比",
+            "トビー",
+            "Toby"
+        ],
+        "species": "rabbit",
+        "birthmonth": 7,
+        "birthdate": 10,
+        "personality": "smug"
+    },
+    "tom": {
+        "name": [
+            "阿邦",
+            "バンタム",
+            "Tom"
+        ],
+        "species": "cat",
+        "birthmonth": 12,
+        "birthdate": 10,
+        "personality": "cranky"
+    },
+    "truffles": {
+        "name": [
+            "嘟嘟",
+            "トンコ",
+            "Truffles"
+        ],
+        "species": "pig",
+        "birthmonth": 7,
+        "birthdate": 28,
+        "personality": "peppy"
+    },
+    "tucker": {
+        "name": [
+            "阿原",
+            "はじめ",
+            "Tucker"
+        ],
+        "species": "elephant",
+        "birthmonth": 9,
+        "birthdate": 7,
+        "personality": "lazy"
+    },
+    "tutu": {
+        "name": [
+            "恋恋",
+            "れんにゅう",
+            "Tutu"
+        ],
+        "species": "bear",
+        "birthmonth": 9,
+        "birthdate": 15,
+        "personality": "peppy"
+    },
+    "twiggy": {
+        "name": [
+            "叽叽",
+            "ピーチク",
+            "Twiggy"
+        ],
+        "species": "bird",
+        "birthmonth": 7,
+        "birthdate": 13,
+        "personality": "peppy"
+    },
+    "tybalt": {
+        "name": [
+            "谷丰",
+            "ハリマオ",
+            "Tybalt"
+        ],
+        "species": "tiger",
+        "birthmonth": 8,
+        "birthdate": 19,
+        "personality": "jock"
+    },
+    "ursala": {
+        "name": [
+            "妮雅",
+            "ネーヤ",
+            "Ursala"
+        ],
+        "species": "bear",
+        "birthmonth": 1,
+        "birthdate": 16,
+        "personality": "uchi"
+    },
+    "velma": {
+        "name": [
+            "班长",
+            "ピティエ",
+            "Velma"
+        ],
+        "species": "goat",
+        "birthmonth": 1,
+        "birthdate": 14,
+        "personality": "snooty"
+    },
+    "vesta": {
+        "name": [
+            "绵绵",
+            "メリヤス",
+            "Vesta"
+        ],
+        "species": "sheep",
+        "birthmonth": 4,
+        "birthdate": 16,
+        "personality": "normal"
+    },
+    "vic": {
+        "name": [
+            "卢尔曼",
+            "ノルマン",
+            "Vic"
+        ],
+        "species": "bull",
+        "birthmonth": 12,
+        "birthdate": 29,
+        "personality": "cranky"
+    },
+    "victoria": {
+        "name": [
+            "圣萝",
+            "セントアロー",
+            "Victoria"
+        ],
+        "species": "horse",
+        "birthmonth": 7,
+        "birthdate": 11,
+        "personality": "peppy"
+    },
+    "violet": {
+        "name": [
+            "吴紫眉",
+            "ウズメ",
+            "Violet"
+        ],
+        "species": "gorilla",
+        "birthmonth": 9,
+        "birthdate": 1,
+        "personality": "snooty"
+    },
+    "vivian": {
+        "name": [
+            "范妮沙",
+            "ヴァネッサ",
+            "Vivian"
+        ],
+        "species": "wolf",
+        "birthmonth": 1,
+        "birthdate": 26,
+        "personality": "snooty"
+    },
+    "vladimir": {
+        "name": [
+            "嘉弼",
+            "ガビ",
+            "Vladimir"
+        ],
+        "species": "cub",
+        "birthmonth": 8,
+        "birthdate": 2,
+        "personality": "cranky"
+    },
+    "wade": {
+        "name": [
+            "竹轮",
+            "カマボコ",
+            "Wade"
+        ],
+        "species": "penguin",
+        "birthmonth": 10,
+        "birthdate": 30,
+        "personality": "lazy"
+    },
+    "walker": {
+        "name": [
+            "阿笨",
+            "ベン",
+            "Walker"
+        ],
+        "species": "dog",
+        "birthmonth": 6,
+        "birthdate": 10,
+        "personality": "lazy"
+    },
+    "walt": {
+        "name": [
+            "袋钢",
+            "カンロク",
+            "Walt"
+        ],
+        "species": "kangaroo",
+        "birthmonth": 4,
+        "birthdate": 24,
+        "personality": "cranky"
+    },
+    "wart-jr": {
+        "name": [
+            "山姆",
+            "サム",
+            "Wart Jr."
+        ],
+        "species": "frog",
+        "birthmonth": 8,
+        "birthdate": 21,
+        "personality": "cranky"
+    },
+    "weber": {
+        "name": [
+            "卿德",
+            "アチョット",
+            "Weber"
+        ],
+        "species": "duck",
+        "birthmonth": 6,
+        "birthdate": 30,
+        "personality": "lazy"
+    },
+    "wendy": {
+        "name": [
+            "雪花",
+            "みぞれ",
+            "Wendy"
+        ],
+        "species": "sheep",
+        "birthmonth": 8,
+        "birthdate": 15,
+        "personality": "peppy"
+    },
+    "whitney": {
+        "name": [
+            "毕安卡",
+            "ビアンカ",
+            "Whitney"
+        ],
+        "species": "wolf",
+        "birthmonth": 9,
+        "birthdate": 17,
+        "personality": "snooty"
+    },
+    "willow": {
+        "name": [
+            "梅丽诺",
+            "マリー",
+            "Willow"
+        ],
+        "species": "sheep",
+        "birthmonth": 11,
+        "birthdate": 26,
+        "personality": "snooty"
+    },
+    "winnie": {
+        "name": [
+            "马星星",
+            "マキバスター",
+            "Winnie"
+        ],
+        "species": "horse",
+        "birthmonth": 1,
+        "birthdate": 31,
+        "personality": "peppy"
+    },
+    "wolfgang": {
+        "name": [
+            "罗博",
+            "ロボ",
+            "Wolfgang"
+        ],
+        "species": "wolf",
+        "birthmonth": 11,
+        "birthdate": 25,
+        "personality": "cranky"
+    },
+    "yuka": {
+        "name": [
+            "尤嘉莉",
+            "ユーカリ",
+            "Yuka"
+        ],
+        "species": "koala",
+        "birthmonth": 7,
+        "birthdate": 20,
+        "personality": "snooty"
+    },
+    "zell": {
+        "name": [
+            "森森",
+            "ネルソン",
+            "Zell"
+        ],
+        "species": "deer",
+        "birthmonth": 6,
+        "birthdate": 7,
+        "personality": "smug"
+    },
+    "zoe": {
+        "name": [
+            "米粉",
+            "ビーフン",
+            "Zoe"
+        ],
+        "species": "anteater",
+        "birthmonth": 2,
+        "birthdate": 10,
+        "personality": "normal"
+    },
+    "zucker": {
+        "name": [
+            "章丸丸",
+            "タコヤ",
+            "Zucker"
+        ],
+        "species": "octopus",
+        "birthmonth": 3,
+        "birthdate": 8,
+        "personality": "lazy"
+    }
+}
