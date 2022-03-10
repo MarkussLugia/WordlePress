@@ -135,8 +135,8 @@ export default {
           let compareValue = this.$data.metadata.list[item][key];
           shareText += this.compare(targetValue, compareValue);
         }
-        navigator.clipboard.write(shareText).then(() => {});
         navigator.clipboard.writeText(shareText).then(() => {});
+        window.clipboardData.setData(shareText)
       }
     },
     compare(targetValue, compareValue) {
