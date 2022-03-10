@@ -1,4 +1,5 @@
 <template>
+  <input type="text" ref="clip" id="clip-input" />
   <head-bar :title="title"></head-bar>
   <div class="game" v-if="!gameStart">
     <before-game :chances="chances"></before-game>
@@ -79,6 +80,12 @@ export default {
     toggleGameStart() {
       if (!this.$data.gameStart) {
         this.$data.gameStart = true;
+        window.addEventListener("beforeunload", function (e) {
+          var confirmationMessage =
+            "离开此页面后，你本次的游戏进度会丢失！真的要离开吗？";
+          (e || window.event).returnValue = confirmationMessage;
+          return confirmationMessage;
+        });
       }
       this.startGame();
     },
@@ -127,7 +134,7 @@ export default {
       return;
     },
     shareResult() {
-      let shareText = "Nookie";
+      let shareText = "动森猜岛民";
       for (const item of this.$data.guesses) {
         shareText += "\n";
         for (const key in this.$data.metadata.properties) {
@@ -135,15 +142,16 @@ export default {
           let compareValue = this.$data.metadata.list[item][key];
           shareText += this.compare(targetValue, compareValue);
         }
-        navigator.clipboard.writeText(shareText).then(() => {});
-        window.clipboardData.setData(shareText);
-        var temp = document.createElement("textarea");
-        temp.value = shareText;
-        temp.style.height = 0;
-        document.body.appendChild(temp);
-        temp.select();
-        document.execCommand("Copy", false, null);
-        document.body.removeChild(temp);
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText(shareText);
+        }
+        if (window.clipboardData) {
+          window.clipboardData.setData(shareText);
+        }
+        this.$refs.clip.value = shareText;
+        this.$refs.clip.select();
+        this.$refs.clip.setSelectionRange(0, shareText.length);
+        document.execCommand("copy");
       }
     },
     compare(targetValue, compareValue) {
@@ -175,6 +183,15 @@ export default {
   flex-flow: column nowrap;
   justify-content: stretch;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+#clip-input {
+  position: fixed;
+  z-index: -1;
+  box-sizing: border-box;
+  width: 0px;
+  height: 0px;
+  opacity: 0;
+  left: -256px;
 }
 #head {
   flex-grow: 0;
