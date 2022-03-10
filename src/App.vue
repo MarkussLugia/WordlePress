@@ -1,5 +1,5 @@
 <template>
-  <input type="text" ref="clip" id="clip-input" />
+  <textarea ref="clip" id="clip-input"></textarea>
   <head-bar :title="title"></head-bar>
   <div class="game" v-if="!gameStart">
     <before-game :chances="chances"></before-game>
@@ -108,8 +108,6 @@ export default {
       } else {
         let checker = true;
         for (const property in metadata.properties) {
-          console.log(key);
-          console.log(this.$data.target);
           if (
             this.$data.metadata.list[key][property] !=
             this.$data.metadata.list[this.$data.target][property]
@@ -148,9 +146,8 @@ export default {
         if (window.clipboardData) {
           window.clipboardData.setData(shareText);
         }
-        this.$refs.clip.value = shareText;
+        this.$refs.clip.textContent = shareText;
         this.$refs.clip.select();
-        this.$refs.clip.setSelectionRange(0, shareText.length);
         document.execCommand("copy");
       }
     },

@@ -41,7 +41,6 @@ export default {
   },
   methods: {
     addGuess(key) {
-      console.log(1);
       this.$emit("guess", key);
     },
   },

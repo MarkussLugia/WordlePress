@@ -8,7 +8,6 @@ export default {
   props:["event"],
   methods:{
     clicked(){
-      console.log(this.event)
       this.$emit(this.event)
     }
   }
