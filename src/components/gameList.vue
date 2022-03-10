@@ -97,8 +97,8 @@ export default {
 }
 .table-head-name,
 .table-row-name {
-  flex-grow: 0.9;
-  min-width: 100px;
+  flex-grow: 0.8;
+  min-width: 80px;
   flex-basis: 0;
   overflow: hidden;
 }

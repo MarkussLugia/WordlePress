@@ -3,7 +3,7 @@
   <div class="game" v-if="!gameStart">
     <before-game :chances="chances"></before-game>
     <card-button event="toggle" v-on:toggle="toggleGameStart">
-      <span class="big-button">⮞ 开始游戏吧！</span>
+      <span class="big-button">→ 开始游戏吧！</span>
     </card-button>
 
     <about-buttons></about-buttons>
@@ -174,7 +174,7 @@ export default {
 .game {
   flex-grow: 1;
   overflow-y: auto;
-  padding: 6px 12px 0;
+  padding: 6px 0.5vw 0;
 }
 .big-button {
   font-size: 24px;
