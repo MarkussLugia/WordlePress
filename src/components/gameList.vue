@@ -121,6 +121,7 @@ export default {
 .table-row-item-mark {
   line-height: 44px;
   font-size: 36px;
+  user-select: none;
 }
 #table-holder {
   height: 60px;

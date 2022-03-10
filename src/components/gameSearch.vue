@@ -15,9 +15,14 @@
           <div class="search-item-name">
             {{ item.name[0] }}
           </div>
-          <div class="search-item-select" v-on:click="addGuess(item.key)">
+          <div
+            class="search-item-select"
+            v-on:click="addGuess(item.key)"
+            v-if="guessed.indexOf(item.key) == -1"
+          >
             选择
           </div>
+          <div class="search-item-select disabled" v-else>猜过了</div>
         </div>
         <div id="search-holder" v-if="!query.length">没有找到</div>
       </div>
@@ -28,7 +33,7 @@
 import cardFrame from "./cardFrame.vue";
 export default {
   components: { cardFrame },
-  props: ["selected", "list", "keySearch"],
+  props: ["guessed", "list", "keySearch"],
   data() {
     return {
       input: "",
@@ -137,6 +142,10 @@ export default {
   text-align: center;
   flex-grow: 0;
   user-select: none;
+}
+.search-item-select.disabled {
+  background-color: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(255, 255, 255, 0.15);
 }
 #search-holder {
   height: 60px;
