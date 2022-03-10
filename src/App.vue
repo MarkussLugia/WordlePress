@@ -136,7 +136,14 @@ export default {
           shareText += this.compare(targetValue, compareValue);
         }
         navigator.clipboard.writeText(shareText).then(() => {});
-        window.clipboardData.setData(shareText)
+        window.clipboardData.setData(shareText);
+        var temp = document.createElement("textarea");
+        temp.value = shareText;
+        temp.style.height = 0;
+        document.body.appendChild(temp);
+        temp.select();
+        document.execCommand("Copy", false, null);
+        document.body.removeChild(temp);
       }
     },
     compare(targetValue, compareValue) {
