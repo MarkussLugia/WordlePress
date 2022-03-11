@@ -1,4 +1,5 @@
 <template>
+<div id="background"></div>
   <textarea ref="clip" id="clip-input"></textarea>
   <head-bar :title="title"></head-bar>
   <div class="game" v-if="!gameStart">
@@ -182,6 +183,10 @@ export default {
 <style>
 #app {
   background-color: #303030;
+  background-image: url(../public/siltra.svg);
+  background-repeat: no-repeat;
+  background-position: bottom 5px left 10px;
+  background-size: 60%;
   display: flex;
   flex-flow: column nowrap;
   justify-content: stretch;
