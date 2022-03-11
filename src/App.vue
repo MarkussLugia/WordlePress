@@ -4,7 +4,7 @@
   <div class="game" v-if="!gameStart">
     <before-game :chances="chances"></before-game>
     <card-button event="toggle" v-on:toggle="toggleGameStart">
-      <span class="big-button">→ 开始游戏吧！</span>
+      <span class="big-button"><b>→ </b> 开始游戏吧！</span>
     </card-button>
 
     <about-buttons></about-buttons>
@@ -30,10 +30,11 @@
     ></game-list>
     <div v-if="gameEnd">
       <card-button event="share" v-on:share="shareResult">
-        <span class="big-button">⇱ 分享结果</span>
+        <span class="big-button" v-if="copied"><b>✓ </b>已复制到剪贴板</span>
+        <span class="big-button" v-else><b>⇱ </b>分享结果</span>
       </card-button>
       <card-button event="toggle" v-on:toggle="toggleGameStart">
-        <span>⭮ 再猜一把！</span>
+        <span><b>↺ </b> 再猜一把！</span>
       </card-button>
 
       <about-buttons></about-buttons>
@@ -74,6 +75,7 @@ export default {
       win: false,
       target: "",
       guesses: [],
+      copied: false,
     };
   },
   methods: {
@@ -92,6 +94,7 @@ export default {
     startGame() {
       this.$data.gameEnd = false;
       this.$data.win = false;
+      this.$data.copied = false;
       let keys = [];
       for (const key in this.$data.metadata.list) {
         keys.push(key);
@@ -140,18 +143,19 @@ export default {
           let compareValue = this.$data.metadata.list[item][key];
           shareText += this.compare(targetValue, compareValue);
         }
-        if (navigator.clipboard) {
-          navigator.clipboard.writeText(shareText);
-        }
-        if (window.clipboardData) {
-          window.clipboardData.setData(shareText);
-        }
-        this.$refs.clip.style.display = "block";
-        this.$refs.clip.textContent = shareText;
-        this.$refs.clip.select();
-        document.execCommand("copy");
-        this.$refs.clip.style.display = "none";
       }
+      if (navigator.clipboard) {
+        navigator.clipboard.writeText(shareText);
+      }
+      if (window.clipboardData) {
+        window.clipboardData.setData(shareText);
+      }
+      this.$refs.clip.style.display = "block";
+      this.$refs.clip.textContent = shareText;
+      this.$refs.clip.select();
+      document.execCommand("copy");
+      this.$refs.clip.style.display = "none";
+      this.$data.copied = true;
     },
     compare(targetValue, compareValue) {
       if (targetValue == compareValue) {
