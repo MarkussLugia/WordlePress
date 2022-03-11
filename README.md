@@ -1,4 +1,4 @@
-# wordiepress
+# wordlepress
 
 ## Project setup
 ```
