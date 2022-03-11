@@ -146,9 +146,11 @@ export default {
         if (window.clipboardData) {
           window.clipboardData.setData(shareText);
         }
+        this.$refs.clip.style.display = "block";
         this.$refs.clip.textContent = shareText;
         this.$refs.clip.select();
         document.execCommand("copy");
+        this.$refs.clip.style.display = "none";
       }
     },
     compare(targetValue, compareValue) {
@@ -182,6 +184,7 @@ export default {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 #clip-input {
+  display: none;
   position: fixed;
   z-index: -1;
   box-sizing: border-box;
